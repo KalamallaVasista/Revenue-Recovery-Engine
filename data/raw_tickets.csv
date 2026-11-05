@@ -1,0 +1,1501 @@
+ticket_id,customer_id,ticket_date,ticket_text,frustration_score
+5001,1220,2024-08-13,"Works fine, no issues so far.",6.0
+5002,1903,2024-02-18,Billing is incorrect for the third month in a row!,5.5
+5003,1163,2024-12-20,Billing is incorrect for the third month in a row!,5.5
+5004,1951,2024-02-03,Billing is incorrect for the third month in a row!,5.5
+5005,1220,2024-06-16,Billing is incorrect for the third month in a row!,5.5
+5006,1270,2024-04-19,Billing is incorrect for the third month in a row!,5.5
+5007,1632,2024-04-09,"The platform is too slow, I am losing money.",7.2
+5008,1906,2024-06-12,Billing is incorrect for the third month in a row!,5.5
+5009,1848,2024-07-11,"The platform is too slow, I am losing money.",7.2
+5010,1400,2024-08-12,Billing is incorrect for the third month in a row!,5.5
+5011,1182,2024-10-07,"Works fine, no issues so far.",6.0
+5012,1991,2024-11-29,Great tool but a bit expensive.,3.8
+5013,1618,2024-05-06,Billing is incorrect for the third month in a row!,5.5
+5014,1729,2024-09-28,How do I reset my password?,5.5
+5015,1205,2024-03-01,Billing is incorrect for the third month in a row!,5.5
+5016,1582,2024-02-03,Billing is incorrect for the third month in a row!,5.5
+5017,1556,2024-02-11,"Works fine, no issues so far.",6.0
+5018,1841,2024-11-18,"Horrible customer service, canceling my account.",7.9
+5019,1813,2024-01-03,"Works fine, no issues so far.",6.0
+5020,1228,2024-05-28,How do I reset my password?,5.5
+5021,1696,2024-10-03,"Horrible customer service, canceling my account.",7.9
+5022,1619,2024-08-12,Absolutely love the new dashboard update!,2.4
+5023,1596,2024-06-19,Absolutely love the new dashboard update!,2.4
+5024,1850,2024-07-15,How do I reset my password?,5.5
+5025,1250,2024-05-01,"Works fine, no issues so far.",6.0
+5026,1875,2024-06-14,"The platform is too slow, I am losing money.",7.2
+5027,1441,2024-04-12,How do I reset my password?,5.5
+5028,1533,2024-08-16,Great tool but a bit expensive.,3.8
+5029,1196,2024-09-11,"Horrible customer service, canceling my account.",7.9
+5030,1690,2024-12-01,"Horrible customer service, canceling my account.",7.9
+5031,1929,2024-05-10,Billing is incorrect for the third month in a row!,5.5
+5032,1987,2024-11-22,Absolutely love the new dashboard update!,2.4
+5033,1519,2024-10-11,"Horrible customer service, canceling my account.",7.9
+5034,1070,2024-01-21,How do I reset my password?,5.5
+5035,1639,2024-03-23,"Horrible customer service, canceling my account.",7.9
+5036,1399,2024-07-06,How do I reset my password?,5.5
+5037,1978,2024-05-17,"The platform is too slow, I am losing money.",7.2
+5038,1672,2024-05-16,Billing is incorrect for the third month in a row!,5.5
+5039,1760,2024-07-12,Absolutely love the new dashboard update!,2.4
+5040,1203,2024-10-07,"Horrible customer service, canceling my account.",7.9
+5041,1148,2024-07-27,How do I reset my password?,5.5
+5042,1472,2024-12-02,"Works fine, no issues so far.",6.0
+5043,1655,2024-12-27,Absolutely love the new dashboard update!,2.4
+5044,1944,2024-12-07,"The platform is too slow, I am losing money.",7.2
+5045,1199,2024-04-30,How do I reset my password?,5.5
+5046,1917,2024-11-27,Great tool but a bit expensive.,3.8
+5047,1426,2024-04-16,Great tool but a bit expensive.,3.8
+5048,1666,2024-02-20,Billing is incorrect for the third month in a row!,5.5
+5049,1492,2024-08-13,Billing is incorrect for the third month in a row!,5.5
+5050,1888,2024-03-16,"The platform is too slow, I am losing money.",7.2
+5051,1896,2024-07-02,"The platform is too slow, I am losing money.",7.2
+5052,1142,2024-02-04,Billing is incorrect for the third month in a row!,5.5
+5053,1313,2024-10-12,"Horrible customer service, canceling my account.",7.9
+5054,1165,2024-10-10,"Horrible customer service, canceling my account.",7.9
+5055,1314,2024-09-01,How do I reset my password?,5.5
+5056,1021,2024-06-22,"Works fine, no issues so far.",6.0
+5057,1082,2024-03-11,How do I reset my password?,5.5
+5058,1581,2024-09-09,"Works fine, no issues so far.",6.0
+5059,1131,2024-08-15,"The platform is too slow, I am losing money.",7.2
+5060,1599,2024-12-21,Absolutely love the new dashboard update!,2.4
+5061,1730,2024-08-06,How do I reset my password?,5.5
+5062,1933,2024-05-07,How do I reset my password?,5.5
+5063,1984,2024-06-25,"Works fine, no issues so far.",6.0
+5064,1305,2024-07-03,"The platform is too slow, I am losing money.",7.2
+5065,1915,2024-07-26,"The platform is too slow, I am losing money.",7.2
+5066,1371,2024-10-02,Great tool but a bit expensive.,3.8
+5067,1857,2024-11-09,"Works fine, no issues so far.",6.0
+5068,1853,2024-05-17,"The platform is too slow, I am losing money.",7.2
+5069,1384,2024-03-19,Billing is incorrect for the third month in a row!,5.5
+5070,1908,2024-09-14,"Horrible customer service, canceling my account.",7.9
+5071,1445,2024-04-02,Great tool but a bit expensive.,3.8
+5072,1425,2024-03-24,Billing is incorrect for the third month in a row!,5.5
+5073,1161,2024-12-22,Absolutely love the new dashboard update!,2.4
+5074,1178,2024-05-23,How do I reset my password?,5.5
+5075,1629,2024-09-02,Great tool but a bit expensive.,3.8
+5076,1708,2024-09-13,Absolutely love the new dashboard update!,2.4
+5077,1895,2024-01-28,How do I reset my password?,5.5
+5078,1490,2024-02-21,"Horrible customer service, canceling my account.",7.9
+5079,1327,2024-02-06,"The platform is too slow, I am losing money.",7.2
+5080,1598,2024-01-14,Billing is incorrect for the third month in a row!,5.5
+5081,1289,2024-12-26,"Works fine, no issues so far.",6.0
+5082,1593,2024-11-02,Billing is incorrect for the third month in a row!,5.5
+5083,1664,2024-02-29,"Horrible customer service, canceling my account.",7.9
+5084,1573,2024-09-21,Absolutely love the new dashboard update!,2.4
+5085,1573,2024-08-12,"Works fine, no issues so far.",6.0
+5086,1354,2024-06-08,"The platform is too slow, I am losing money.",7.2
+5087,1028,2024-01-23,"Horrible customer service, canceling my account.",7.9
+5088,1954,2024-04-24,"Works fine, no issues so far.",6.0
+5089,1043,2024-09-24,"Horrible customer service, canceling my account.",7.9
+5090,1681,2024-11-21,"Horrible customer service, canceling my account.",7.9
+5091,1423,2024-04-29,"The platform is too slow, I am losing money.",7.2
+5092,1598,2024-05-16,Great tool but a bit expensive.,3.8
+5093,1177,2024-10-08,How do I reset my password?,5.5
+5094,1529,2024-02-26,"Works fine, no issues so far.",6.0
+5095,1610,2024-04-17,"The platform is too slow, I am losing money.",7.2
+5096,1966,2024-07-16,"Horrible customer service, canceling my account.",7.9
+5097,1494,2024-12-11,"The platform is too slow, I am losing money.",7.2
+5098,1198,2024-12-26,Great tool but a bit expensive.,3.8
+5099,1610,2024-07-14,How do I reset my password?,5.5
+5100,1577,2024-11-15,Billing is incorrect for the third month in a row!,5.5
+5101,1842,2024-11-24,"Works fine, no issues so far.",6.0
+5102,1853,2024-01-22,How do I reset my password?,5.5
+5103,1517,2024-05-30,Absolutely love the new dashboard update!,2.4
+5104,1514,2024-08-25,"Works fine, no issues so far.",6.0
+5105,1022,2024-03-30,How do I reset my password?,5.5
+5106,1112,2024-08-09,"Horrible customer service, canceling my account.",7.9
+5107,1057,2024-11-21,"Works fine, no issues so far.",6.0
+5108,1066,2024-12-06,"Works fine, no issues so far.",6.0
+5109,1842,2024-08-26,"The platform is too slow, I am losing money.",7.2
+5110,1098,2024-05-30,"Horrible customer service, canceling my account.",7.9
+5111,1144,2024-08-04,Absolutely love the new dashboard update!,2.4
+5112,1880,2024-12-02,Billing is incorrect for the third month in a row!,5.5
+5113,1435,2024-09-12,Great tool but a bit expensive.,3.8
+5114,1637,2024-12-23,How do I reset my password?,5.5
+5115,1679,2024-07-02,"The platform is too slow, I am losing money.",7.2
+5116,1086,2024-12-27,How do I reset my password?,5.5
+5117,1588,2024-04-29,Absolutely love the new dashboard update!,2.4
+5118,1344,2024-08-26,Absolutely love the new dashboard update!,2.4
+5119,1936,2024-08-22,"Works fine, no issues so far.",6.0
+5120,1294,2024-05-20,Great tool but a bit expensive.,3.8
+5121,1956,2024-12-12,Absolutely love the new dashboard update!,2.4
+5122,1571,2024-09-12,How do I reset my password?,5.5
+5123,1650,2024-04-14,"Horrible customer service, canceling my account.",7.9
+5124,1611,2024-10-23,"Horrible customer service, canceling my account.",7.9
+5125,1704,2024-12-06,"Works fine, no issues so far.",6.0
+5126,1243,2024-11-23,Billing is incorrect for the third month in a row!,5.5
+5127,1831,2024-02-03,How do I reset my password?,5.5
+5128,1561,2024-03-29,How do I reset my password?,5.5
+5129,1960,2024-04-23,Absolutely love the new dashboard update!,2.4
+5130,1032,2024-05-08,Great tool but a bit expensive.,3.8
+5131,1391,2024-10-02,How do I reset my password?,5.5
+5132,1277,2024-07-02,"The platform is too slow, I am losing money.",7.2
+5133,1532,2024-04-13,Billing is incorrect for the third month in a row!,5.5
+5134,1154,2024-12-15,Absolutely love the new dashboard update!,2.4
+5135,1383,2024-12-15,"The platform is too slow, I am losing money.",7.2
+5136,1068,2024-02-19,"Works fine, no issues so far.",6.0
+5137,1878,2024-02-11,"Horrible customer service, canceling my account.",7.9
+5138,1884,2024-05-28,"Works fine, no issues so far.",6.0
+5139,1214,2024-06-11,"Horrible customer service, canceling my account.",7.9
+5140,1655,2024-02-03,"Works fine, no issues so far.",6.0
+5141,1376,2024-01-20,How do I reset my password?,5.5
+5142,1744,2024-10-02,"The platform is too slow, I am losing money.",7.2
+5143,1213,2024-04-26,"Horrible customer service, canceling my account.",7.9
+5144,1079,2024-08-14,Absolutely love the new dashboard update!,2.4
+5145,1726,2024-12-02,"The platform is too slow, I am losing money.",7.2
+5146,1628,2024-09-05,Absolutely love the new dashboard update!,2.4
+5147,1604,2024-05-15,"The platform is too slow, I am losing money.",7.2
+5148,1782,2024-06-02,"The platform is too slow, I am losing money.",7.2
+5149,1923,2024-02-08,"Works fine, no issues so far.",6.0
+5150,1381,2024-04-15,"Horrible customer service, canceling my account.",7.9
+5151,1680,2024-02-07,"Horrible customer service, canceling my account.",7.9
+5152,1058,2024-03-07,Great tool but a bit expensive.,3.8
+5153,1796,2024-01-24,"The platform is too slow, I am losing money.",7.2
+5154,1026,2024-10-15,How do I reset my password?,5.5
+5155,1881,2024-04-13,How do I reset my password?,5.5
+5156,1447,2024-09-01,Absolutely love the new dashboard update!,2.4
+5157,1066,2024-09-03,Absolutely love the new dashboard update!,2.4
+5158,1921,2024-02-28,"Works fine, no issues so far.",6.0
+5159,1760,2024-04-14,"The platform is too slow, I am losing money.",7.2
+5160,1254,2024-06-09,Absolutely love the new dashboard update!,2.4
+5161,1899,2024-07-24,Absolutely love the new dashboard update!,2.4
+5162,1968,2024-07-06,Billing is incorrect for the third month in a row!,5.5
+5163,1044,2024-01-08,"The platform is too slow, I am losing money.",7.2
+5164,1097,2024-10-26,"Works fine, no issues so far.",6.0
+5165,1554,2024-06-16,Absolutely love the new dashboard update!,2.4
+5166,1227,2024-08-15,"Works fine, no issues so far.",6.0
+5167,1774,2024-04-25,"Horrible customer service, canceling my account.",7.9
+5168,1679,2024-01-23,"Works fine, no issues so far.",6.0
+5169,1436,2024-08-10,How do I reset my password?,5.5
+5170,1791,2024-03-08,How do I reset my password?,5.5
+5171,1601,2024-04-15,"Works fine, no issues so far.",6.0
+5172,1379,2024-06-30,How do I reset my password?,5.5
+5173,1178,2024-01-21,"Horrible customer service, canceling my account.",7.9
+5174,1427,2024-05-07,"The platform is too slow, I am losing money.",7.2
+5175,1915,2024-12-03,How do I reset my password?,5.5
+5176,1709,2024-09-03,How do I reset my password?,5.5
+5177,1307,2024-07-02,"Works fine, no issues so far.",6.0
+5178,1779,2024-08-26,"Horrible customer service, canceling my account.",7.9
+5179,1504,2024-06-07,Great tool but a bit expensive.,3.8
+5180,1268,2024-07-28,Great tool but a bit expensive.,3.8
+5181,1586,2024-02-04,Great tool but a bit expensive.,3.8
+5182,1008,2024-01-13,Great tool but a bit expensive.,3.8
+5183,1920,2024-01-06,"The platform is too slow, I am losing money.",7.2
+5184,1508,2024-01-22,"Works fine, no issues so far.",6.0
+5185,1476,2024-01-08,"Works fine, no issues so far.",6.0
+5186,1297,2024-12-31,Billing is incorrect for the third month in a row!,5.5
+5187,1164,2024-08-29,"Horrible customer service, canceling my account.",7.9
+5188,1485,2024-08-12,Great tool but a bit expensive.,3.8
+5189,1597,2024-12-21,"The platform is too slow, I am losing money.",7.2
+5190,1072,2024-09-12,"Horrible customer service, canceling my account.",7.9
+5191,1567,2024-05-07,Great tool but a bit expensive.,3.8
+5192,1905,2024-04-16,"The platform is too slow, I am losing money.",7.2
+5193,1559,2024-12-10,"Horrible customer service, canceling my account.",7.9
+5194,1911,2024-07-30,"Works fine, no issues so far.",6.0
+5195,1944,2024-08-16,"Works fine, no issues so far.",6.0
+5196,1238,2024-03-16,Absolutely love the new dashboard update!,2.4
+5197,1104,2024-07-10,How do I reset my password?,5.5
+5198,1210,2024-02-22,Great tool but a bit expensive.,3.8
+5199,1554,2024-07-28,Billing is incorrect for the third month in a row!,5.5
+5200,1828,2024-01-12,"Horrible customer service, canceling my account.",7.9
+5201,1468,2024-01-04,Billing is incorrect for the third month in a row!,5.5
+5202,1454,2024-04-03,Absolutely love the new dashboard update!,2.4
+5203,1268,2024-09-02,How do I reset my password?,5.5
+5204,1386,2024-01-28,"Horrible customer service, canceling my account.",7.9
+5205,1775,2024-04-15,"The platform is too slow, I am losing money.",7.2
+5206,1848,2024-04-19,Great tool but a bit expensive.,3.8
+5207,1387,2024-09-04,How do I reset my password?,5.5
+5208,1877,2024-06-21,"Works fine, no issues so far.",6.0
+5209,1259,2024-10-28,Absolutely love the new dashboard update!,2.4
+5210,1283,2024-02-29,How do I reset my password?,5.5
+5211,1626,2024-01-17,Great tool but a bit expensive.,3.8
+5212,1875,2024-03-22,How do I reset my password?,5.5
+5213,1040,2024-05-21,Great tool but a bit expensive.,3.8
+5214,1486,2024-01-21,"Works fine, no issues so far.",6.0
+5215,1929,2024-04-30,"Horrible customer service, canceling my account.",7.9
+5216,1220,2024-11-01,"The platform is too slow, I am losing money.",7.2
+5217,1129,2024-12-13,"Works fine, no issues so far.",6.0
+5218,1520,2024-04-20,"The platform is too slow, I am losing money.",7.2
+5219,1613,2024-03-06,"Horrible customer service, canceling my account.",7.9
+5220,1928,2024-09-28,How do I reset my password?,5.5
+5221,1892,2024-12-24,"The platform is too slow, I am losing money.",7.2
+5222,1688,2024-06-15,Absolutely love the new dashboard update!,2.4
+5223,1619,2024-10-17,Absolutely love the new dashboard update!,2.4
+5224,1613,2024-10-09,Great tool but a bit expensive.,3.8
+5225,1260,2024-07-12,"Works fine, no issues so far.",6.0
+5226,1990,2024-08-11,"Horrible customer service, canceling my account.",7.9
+5227,1966,2024-01-27,Great tool but a bit expensive.,3.8
+5228,1366,2024-10-18,"Works fine, no issues so far.",6.0
+5229,1758,2024-03-21,"Works fine, no issues so far.",6.0
+5230,1787,2024-04-13,Great tool but a bit expensive.,3.8
+5231,1544,2024-03-23,Billing is incorrect for the third month in a row!,5.5
+5232,1649,2024-05-25,"Works fine, no issues so far.",6.0
+5233,1524,2024-12-05,Billing is incorrect for the third month in a row!,5.5
+5234,1907,2024-01-26,Absolutely love the new dashboard update!,2.4
+5235,1814,2024-01-23,Absolutely love the new dashboard update!,2.4
+5236,1887,2024-04-09,"Works fine, no issues so far.",6.0
+5237,1016,2024-03-16,Absolutely love the new dashboard update!,2.4
+5238,1129,2024-09-09,"Horrible customer service, canceling my account.",7.9
+5239,1575,2024-12-05,Billing is incorrect for the third month in a row!,5.5
+5240,1109,2024-06-04,Billing is incorrect for the third month in a row!,5.5
+5241,1887,2024-02-28,"Works fine, no issues so far.",6.0
+5242,1533,2024-06-18,Absolutely love the new dashboard update!,2.4
+5243,1670,2024-07-05,"The platform is too slow, I am losing money.",7.2
+5244,1269,2024-10-04,Great tool but a bit expensive.,3.8
+5245,1162,2024-06-30,Great tool but a bit expensive.,3.8
+5246,1260,2024-10-30,Billing is incorrect for the third month in a row!,5.5
+5247,1924,2024-03-21,"Works fine, no issues so far.",6.0
+5248,1102,2024-08-29,"Works fine, no issues so far.",6.0
+5249,1506,2024-03-03,"Horrible customer service, canceling my account.",7.9
+5250,1735,2024-10-19,How do I reset my password?,5.5
+5251,1571,2024-12-30,How do I reset my password?,5.5
+5252,1247,2024-06-21,Billing is incorrect for the third month in a row!,5.5
+5253,1640,2024-07-21,Great tool but a bit expensive.,3.8
+5254,1795,2024-10-15,"Horrible customer service, canceling my account.",7.9
+5255,1837,2024-07-06,"Horrible customer service, canceling my account.",7.9
+5256,1537,2024-12-21,"Horrible customer service, canceling my account.",7.9
+5257,1131,2024-10-11,Billing is incorrect for the third month in a row!,5.5
+5258,1353,2024-12-26,How do I reset my password?,5.5
+5259,1196,2024-01-06,Great tool but a bit expensive.,3.8
+5260,1793,2024-06-17,"Horrible customer service, canceling my account.",7.9
+5261,1916,2024-08-16,Great tool but a bit expensive.,3.8
+5262,1930,2024-07-30,Absolutely love the new dashboard update!,2.4
+5263,1666,2024-01-07,"Works fine, no issues so far.",6.0
+5264,1382,2024-03-02,"Works fine, no issues so far.",6.0
+5265,1645,2024-04-17,Great tool but a bit expensive.,3.8
+5266,1227,2024-02-03,"The platform is too slow, I am losing money.",7.2
+5267,1701,2024-12-29,"The platform is too slow, I am losing money.",7.2
+5268,1476,2024-10-26,Billing is incorrect for the third month in a row!,5.5
+5269,1477,2024-03-02,Billing is incorrect for the third month in a row!,5.5
+5270,1265,2024-10-19,"Works fine, no issues so far.",6.0
+5271,1372,2024-04-18,Absolutely love the new dashboard update!,2.4
+5272,1486,2024-04-21,How do I reset my password?,5.5
+5273,1434,2024-05-26,How do I reset my password?,5.5
+5274,1646,2024-09-27,Billing is incorrect for the third month in a row!,5.5
+5275,1211,2024-09-08,Absolutely love the new dashboard update!,2.4
+5276,1572,2024-10-22,Billing is incorrect for the third month in a row!,5.5
+5277,1940,2024-06-03,How do I reset my password?,5.5
+5278,1377,2024-10-02,Great tool but a bit expensive.,3.8
+5279,1395,2024-05-08,Billing is incorrect for the third month in a row!,5.5
+5280,1450,2024-03-04,"Horrible customer service, canceling my account.",7.9
+5281,1943,2024-07-14,Great tool but a bit expensive.,3.8
+5282,1364,2024-03-07,Billing is incorrect for the third month in a row!,5.5
+5283,1876,2024-04-02,"Works fine, no issues so far.",6.0
+5284,1457,2024-09-29,Billing is incorrect for the third month in a row!,5.5
+5285,1725,2024-05-11,"Works fine, no issues so far.",6.0
+5286,1728,2024-10-07,Absolutely love the new dashboard update!,2.4
+5287,1226,2024-11-13,How do I reset my password?,5.5
+5288,1982,2024-10-05,Great tool but a bit expensive.,3.8
+5289,1131,2024-08-29,Great tool but a bit expensive.,3.8
+5290,1588,2024-11-24,"The platform is too slow, I am losing money.",7.2
+5291,1476,2024-06-30,"The platform is too slow, I am losing money.",7.2
+5292,1798,2024-11-11,How do I reset my password?,5.5
+5293,1986,2024-08-25,"The platform is too slow, I am losing money.",7.2
+5294,1277,2024-01-31,Great tool but a bit expensive.,3.8
+5295,1156,2024-06-04,Billing is incorrect for the third month in a row!,5.5
+5296,1760,2024-01-15,Absolutely love the new dashboard update!,2.4
+5297,1218,2024-08-06,Absolutely love the new dashboard update!,2.4
+5298,1190,2024-12-10,How do I reset my password?,5.5
+5299,1417,2024-09-29,"The platform is too slow, I am losing money.",7.2
+5300,1981,2024-08-24,Billing is incorrect for the third month in a row!,5.5
+5301,1675,2024-01-14,Absolutely love the new dashboard update!,2.4
+5302,1692,2024-08-12,Absolutely love the new dashboard update!,2.4
+5303,1546,2024-04-01,"Horrible customer service, canceling my account.",7.9
+5304,1041,2024-04-19,"Horrible customer service, canceling my account.",7.9
+5305,1307,2024-09-09,Great tool but a bit expensive.,3.8
+5306,1943,2024-01-12,Absolutely love the new dashboard update!,2.4
+5307,1338,2024-04-10,How do I reset my password?,5.5
+5308,1314,2024-12-23,"Works fine, no issues so far.",6.0
+5309,1075,2024-06-17,"Works fine, no issues so far.",6.0
+5310,1953,2024-12-20,Billing is incorrect for the third month in a row!,5.5
+5311,1279,2024-08-02,Absolutely love the new dashboard update!,2.4
+5312,1176,2024-04-15,Absolutely love the new dashboard update!,2.4
+5313,1896,2024-11-16,Great tool but a bit expensive.,3.8
+5314,1662,2024-12-02,Absolutely love the new dashboard update!,2.4
+5315,1273,2024-02-08,How do I reset my password?,5.5
+5316,1837,2024-02-25,"Horrible customer service, canceling my account.",7.9
+5317,1620,2024-04-30,Absolutely love the new dashboard update!,2.4
+5318,1651,2024-02-24,Absolutely love the new dashboard update!,2.4
+5319,1862,2024-03-01,Great tool but a bit expensive.,3.8
+5320,1783,2024-05-30,"The platform is too slow, I am losing money.",7.2
+5321,1859,2024-04-01,Great tool but a bit expensive.,3.8
+5322,1931,2024-09-14,Great tool but a bit expensive.,3.8
+5323,1289,2024-03-25,How do I reset my password?,5.5
+5324,1724,2024-04-13,Billing is incorrect for the third month in a row!,5.5
+5325,1893,2024-07-01,Absolutely love the new dashboard update!,2.4
+5326,1272,2024-01-02,Great tool but a bit expensive.,3.8
+5327,1930,2024-02-19,Great tool but a bit expensive.,3.8
+5328,1066,2024-05-02,"The platform is too slow, I am losing money.",7.2
+5329,1483,2024-09-23,Great tool but a bit expensive.,3.8
+5330,1936,2024-02-20,"Works fine, no issues so far.",6.0
+5331,1248,2024-10-09,Billing is incorrect for the third month in a row!,5.5
+5332,1156,2024-03-06,Absolutely love the new dashboard update!,2.4
+5333,1047,2024-11-12,Absolutely love the new dashboard update!,2.4
+5334,1935,2024-11-27,"The platform is too slow, I am losing money.",7.2
+5335,1454,2024-12-07,How do I reset my password?,5.5
+5336,1201,2024-10-11,Absolutely love the new dashboard update!,2.4
+5337,1660,2024-12-05,"Works fine, no issues so far.",6.0
+5338,1124,2024-03-20,Absolutely love the new dashboard update!,2.4
+5339,1001,2024-06-23,"Works fine, no issues so far.",6.0
+5340,1968,2024-05-09,Billing is incorrect for the third month in a row!,5.5
+5341,1759,2024-11-02,Billing is incorrect for the third month in a row!,5.5
+5342,1855,2024-08-21,"Horrible customer service, canceling my account.",7.9
+5343,1640,2024-04-15,"Horrible customer service, canceling my account.",7.9
+5344,1191,2024-05-13,"Works fine, no issues so far.",6.0
+5345,1579,2024-11-02,How do I reset my password?,5.5
+5346,1516,2024-11-19,Absolutely love the new dashboard update!,2.4
+5347,1442,2024-05-06,Great tool but a bit expensive.,3.8
+5348,1921,2024-10-28,Absolutely love the new dashboard update!,2.4
+5349,1815,2024-01-01,"Horrible customer service, canceling my account.",7.9
+5350,1806,2024-04-25,Great tool but a bit expensive.,3.8
+5351,1143,2024-01-08,"Works fine, no issues so far.",6.0
+5352,1191,2024-11-25,Great tool but a bit expensive.,3.8
+5353,1533,2024-05-13,Absolutely love the new dashboard update!,2.4
+5354,1227,2024-10-27,Absolutely love the new dashboard update!,2.4
+5355,1313,2024-12-27,How do I reset my password?,5.5
+5356,1629,2024-10-25,"The platform is too slow, I am losing money.",7.2
+5357,1949,2024-03-17,Great tool but a bit expensive.,3.8
+5358,1302,2024-09-07,"Horrible customer service, canceling my account.",7.9
+5359,1654,2024-03-31,"Horrible customer service, canceling my account.",7.9
+5360,1996,2024-03-28,"The platform is too slow, I am losing money.",7.2
+5361,1460,2024-04-26,Absolutely love the new dashboard update!,2.4
+5362,1401,2024-09-11,How do I reset my password?,5.5
+5363,1551,2024-07-30,How do I reset my password?,5.5
+5364,1393,2024-05-24,"Horrible customer service, canceling my account.",7.9
+5365,1867,2024-02-24,How do I reset my password?,5.5
+5366,1764,2024-05-13,Billing is incorrect for the third month in a row!,5.5
+5367,1845,2024-05-22,"The platform is too slow, I am losing money.",7.2
+5368,1207,2024-04-23,Absolutely love the new dashboard update!,2.4
+5369,1210,2024-10-19,Billing is incorrect for the third month in a row!,5.5
+5370,1115,2024-07-18,"The platform is too slow, I am losing money.",7.2
+5371,1737,2024-06-09,"Works fine, no issues so far.",6.0
+5372,1646,2024-05-20,Great tool but a bit expensive.,3.8
+5373,1251,2024-07-02,"Horrible customer service, canceling my account.",7.9
+5374,1219,2024-07-06,How do I reset my password?,5.5
+5375,1407,2024-12-09,"Works fine, no issues so far.",6.0
+5376,1443,2024-02-25,How do I reset my password?,5.5
+5377,1603,2024-08-12,Billing is incorrect for the third month in a row!,5.5
+5378,1354,2024-06-24,Absolutely love the new dashboard update!,2.4
+5379,1888,2024-03-02,Absolutely love the new dashboard update!,2.4
+5380,1558,2024-07-22,Absolutely love the new dashboard update!,2.4
+5381,1550,2024-08-12,How do I reset my password?,5.5
+5382,1142,2024-01-08,"Works fine, no issues so far.",6.0
+5383,1612,2024-04-24,Absolutely love the new dashboard update!,2.4
+5384,1501,2024-09-04,"Works fine, no issues so far.",6.0
+5385,1840,2024-12-29,How do I reset my password?,5.5
+5386,1702,2024-05-08,Billing is incorrect for the third month in a row!,5.5
+5387,1547,2024-11-06,"Works fine, no issues so far.",6.0
+5388,1659,2024-08-06,Billing is incorrect for the third month in a row!,5.5
+5389,1542,2024-04-12,How do I reset my password?,5.5
+5390,1846,2024-07-29,How do I reset my password?,5.5
+5391,1507,2024-08-29,"Horrible customer service, canceling my account.",7.9
+5392,1596,2024-03-17,How do I reset my password?,5.5
+5393,1881,2024-02-11,How do I reset my password?,5.5
+5394,1281,2024-12-01,"The platform is too slow, I am losing money.",7.2
+5395,1424,2024-12-08,Absolutely love the new dashboard update!,2.4
+5396,1856,2024-11-09,"Horrible customer service, canceling my account.",7.9
+5397,1270,2024-05-09,Great tool but a bit expensive.,3.8
+5398,1154,2024-07-02,"Horrible customer service, canceling my account.",7.9
+5399,1614,2024-11-26,"Horrible customer service, canceling my account.",7.9
+5400,1727,2024-09-12,Great tool but a bit expensive.,3.8
+5401,1662,2024-10-02,"The platform is too slow, I am losing money.",7.2
+5402,1944,2024-10-17,Billing is incorrect for the third month in a row!,5.5
+5403,1083,2024-02-12,How do I reset my password?,5.5
+5404,1622,2024-05-21,Absolutely love the new dashboard update!,2.4
+5405,1947,2024-02-23,"Works fine, no issues so far.",6.0
+5406,1899,2024-08-03,Great tool but a bit expensive.,3.8
+5407,1426,2024-05-26,Billing is incorrect for the third month in a row!,5.5
+5408,1275,2024-11-15,Great tool but a bit expensive.,3.8
+5409,1713,2024-10-03,How do I reset my password?,5.5
+5410,1284,2024-06-13,"The platform is too slow, I am losing money.",7.2
+5411,1980,2024-01-28,Great tool but a bit expensive.,3.8
+5412,1173,2024-02-25,How do I reset my password?,5.5
+5413,1327,2024-12-20,How do I reset my password?,5.5
+5414,1718,2024-12-01,"The platform is too slow, I am losing money.",7.2
+5415,1063,2024-10-16,"Horrible customer service, canceling my account.",7.9
+5416,1073,2024-10-08,"Horrible customer service, canceling my account.",7.9
+5417,1763,2024-03-31,Absolutely love the new dashboard update!,2.4
+5418,1636,2024-12-08,Absolutely love the new dashboard update!,2.4
+5419,1375,2024-09-26,"Horrible customer service, canceling my account.",7.9
+5420,1633,2024-05-27,Billing is incorrect for the third month in a row!,5.5
+5421,1508,2024-12-30,"Works fine, no issues so far.",6.0
+5422,1787,2024-06-01,How do I reset my password?,5.5
+5423,1943,2024-03-29,"Works fine, no issues so far.",6.0
+5424,1398,2024-04-27,How do I reset my password?,5.5
+5425,1120,2024-06-12,"Horrible customer service, canceling my account.",7.9
+5426,1934,2024-12-04,Absolutely love the new dashboard update!,2.4
+5427,1437,2024-07-30,Billing is incorrect for the third month in a row!,5.5
+5428,1829,2024-12-31,Absolutely love the new dashboard update!,2.4
+5429,1676,2024-06-17,"Works fine, no issues so far.",6.0
+5430,1936,2024-06-30,Absolutely love the new dashboard update!,2.4
+5431,1465,2024-12-04,"Horrible customer service, canceling my account.",7.9
+5432,1286,2024-03-10,Billing is incorrect for the third month in a row!,5.5
+5433,1265,2024-04-21,"Works fine, no issues so far.",6.0
+5434,1320,2024-12-16,Billing is incorrect for the third month in a row!,5.5
+5435,1673,2024-03-27,How do I reset my password?,5.5
+5436,1376,2024-01-21,Absolutely love the new dashboard update!,2.4
+5437,1820,2024-04-12,Billing is incorrect for the third month in a row!,5.5
+5438,1089,2024-01-09,"The platform is too slow, I am losing money.",7.2
+5439,1654,2024-01-23,Absolutely love the new dashboard update!,2.4
+5440,1203,2024-12-18,How do I reset my password?,5.5
+5441,1821,2024-07-13,Billing is incorrect for the third month in a row!,5.5
+5442,1739,2024-02-19,"Works fine, no issues so far.",6.0
+5443,1955,2024-10-03,How do I reset my password?,5.5
+5444,1334,2024-07-06,"The platform is too slow, I am losing money.",7.2
+5445,1222,2024-12-08,Billing is incorrect for the third month in a row!,5.5
+5446,1041,2024-09-11,Great tool but a bit expensive.,3.8
+5447,1708,2024-11-07,Great tool but a bit expensive.,3.8
+5448,1068,2024-07-03,"Horrible customer service, canceling my account.",7.9
+5449,1988,2024-11-16,Absolutely love the new dashboard update!,2.4
+5450,1776,2024-11-03,"Works fine, no issues so far.",6.0
+5451,1514,2024-09-18,"Horrible customer service, canceling my account.",7.9
+5452,1873,2024-06-24,Billing is incorrect for the third month in a row!,5.5
+5453,1637,2024-08-21,Great tool but a bit expensive.,3.8
+5454,1622,2024-12-08,Great tool but a bit expensive.,3.8
+5455,1598,2024-04-14,Great tool but a bit expensive.,3.8
+5456,1937,2024-12-30,Billing is incorrect for the third month in a row!,5.5
+5457,1632,2024-10-26,Great tool but a bit expensive.,3.8
+5458,1127,2024-11-16,How do I reset my password?,5.5
+5459,1255,2024-03-18,Billing is incorrect for the third month in a row!,5.5
+5460,1695,2024-11-30,"Works fine, no issues so far.",6.0
+5461,1016,2024-07-14,"Horrible customer service, canceling my account.",7.9
+5462,1477,2024-02-12,"Works fine, no issues so far.",6.0
+5463,1062,2024-09-08,"The platform is too slow, I am losing money.",7.2
+5464,1881,2024-07-27,Great tool but a bit expensive.,3.8
+5465,1432,2024-03-26,"The platform is too slow, I am losing money.",7.2
+5466,1670,2024-03-19,Absolutely love the new dashboard update!,2.4
+5467,1268,2024-11-21,Absolutely love the new dashboard update!,2.4
+5468,1035,2024-12-31,"The platform is too slow, I am losing money.",7.2
+5469,1779,2024-11-27,Billing is incorrect for the third month in a row!,5.5
+5470,1576,2024-10-28,"Works fine, no issues so far.",6.0
+5471,1494,2024-04-26,"The platform is too slow, I am losing money.",7.2
+5472,1562,2024-01-31,Absolutely love the new dashboard update!,2.4
+5473,1469,2024-07-07,"The platform is too slow, I am losing money.",7.2
+5474,1767,2024-12-06,Billing is incorrect for the third month in a row!,5.5
+5475,1661,2024-09-24,"The platform is too slow, I am losing money.",7.2
+5476,1325,2024-06-06,"Works fine, no issues so far.",6.0
+5477,1304,2024-03-01,"Horrible customer service, canceling my account.",7.9
+5478,1276,2024-06-27,Billing is incorrect for the third month in a row!,5.5
+5479,1869,2024-04-09,Absolutely love the new dashboard update!,2.4
+5480,1963,2024-11-08,"Works fine, no issues so far.",6.0
+5481,1684,2024-05-06,"The platform is too slow, I am losing money.",7.2
+5482,1929,2024-11-06,"The platform is too slow, I am losing money.",7.2
+5483,1201,2024-08-09,"Horrible customer service, canceling my account.",7.9
+5484,1445,2024-02-03,Absolutely love the new dashboard update!,2.4
+5485,1905,2024-08-22,Absolutely love the new dashboard update!,2.4
+5486,1324,2024-03-05,How do I reset my password?,5.5
+5487,1035,2024-02-04,Absolutely love the new dashboard update!,2.4
+5488,1977,2024-12-05,"Horrible customer service, canceling my account.",7.9
+5489,1482,2024-12-28,Great tool but a bit expensive.,3.8
+5490,1728,2024-04-08,How do I reset my password?,5.5
+5491,1480,2024-07-01,How do I reset my password?,5.5
+5492,1065,2024-10-01,"The platform is too slow, I am losing money.",7.2
+5493,1008,2024-07-17,"The platform is too slow, I am losing money.",7.2
+5494,1301,2024-11-09,Absolutely love the new dashboard update!,2.4
+5495,1343,2024-02-11,How do I reset my password?,5.5
+5496,1431,2024-10-12,"The platform is too slow, I am losing money.",7.2
+5497,1424,2024-10-29,"Horrible customer service, canceling my account.",7.9
+5498,1332,2024-02-13,"The platform is too slow, I am losing money.",7.2
+5499,1438,2024-06-07,Billing is incorrect for the third month in a row!,5.5
+5500,1588,2024-01-31,Billing is incorrect for the third month in a row!,5.5
+5501,1174,2024-03-02,"The platform is too slow, I am losing money.",7.2
+5502,1559,2024-02-19,How do I reset my password?,5.5
+5503,1527,2024-07-30,Great tool but a bit expensive.,3.8
+5504,1873,2024-12-30,Great tool but a bit expensive.,3.8
+5505,1659,2024-06-18,How do I reset my password?,5.5
+5506,1026,2024-01-07,"Works fine, no issues so far.",6.0
+5507,1820,2024-02-23,Great tool but a bit expensive.,3.8
+5508,1605,2024-11-03,Billing is incorrect for the third month in a row!,5.5
+5509,1406,2024-01-02,"Horrible customer service, canceling my account.",7.9
+5510,1232,2024-02-25,How do I reset my password?,5.5
+5511,1533,2024-11-26,Absolutely love the new dashboard update!,2.4
+5512,1819,2024-11-12,Billing is incorrect for the third month in a row!,5.5
+5513,1550,2024-03-09,"Horrible customer service, canceling my account.",7.9
+5514,1788,2024-05-16,"Horrible customer service, canceling my account.",7.9
+5515,1505,2024-01-16,How do I reset my password?,5.5
+5516,1669,2024-08-31,"Horrible customer service, canceling my account.",7.9
+5517,1179,2024-12-05,How do I reset my password?,5.5
+5518,1132,2024-10-30,Great tool but a bit expensive.,3.8
+5519,1823,2024-09-11,"The platform is too slow, I am losing money.",7.2
+5520,1455,2024-11-14,Billing is incorrect for the third month in a row!,5.5
+5521,1348,2024-07-15,"Works fine, no issues so far.",6.0
+5522,1540,2024-02-29,"The platform is too slow, I am losing money.",7.2
+5523,1772,2024-01-13,Billing is incorrect for the third month in a row!,5.5
+5524,1406,2024-01-10,How do I reset my password?,5.5
+5525,1076,2024-05-25,Billing is incorrect for the third month in a row!,5.5
+5526,1941,2024-09-07,Great tool but a bit expensive.,3.8
+5527,1579,2024-03-14,How do I reset my password?,5.5
+5528,1854,2024-03-09,"The platform is too slow, I am losing money.",7.2
+5529,1492,2024-09-08,Absolutely love the new dashboard update!,2.4
+5530,1194,2024-05-05,Absolutely love the new dashboard update!,2.4
+5531,1984,2024-02-02,Billing is incorrect for the third month in a row!,5.5
+5532,1162,2024-08-03,Absolutely love the new dashboard update!,2.4
+5533,1347,2024-10-12,How do I reset my password?,5.5
+5534,1951,2024-01-14,"Horrible customer service, canceling my account.",7.9
+5535,1361,2024-06-01,How do I reset my password?,5.5
+5536,1769,2024-05-26,"Horrible customer service, canceling my account.",7.9
+5537,1584,2024-08-11,"The platform is too slow, I am losing money.",7.2
+5538,1087,2024-09-04,"Works fine, no issues so far.",6.0
+5539,1934,2024-09-02,"Horrible customer service, canceling my account.",7.9
+5540,1262,2024-03-31,Absolutely love the new dashboard update!,2.4
+5541,1214,2024-04-08,How do I reset my password?,5.5
+5542,1665,2024-03-20,"The platform is too slow, I am losing money.",7.2
+5543,1722,2024-08-19,Absolutely love the new dashboard update!,2.4
+5544,1913,2024-04-20,"The platform is too slow, I am losing money.",7.2
+5545,1573,2024-09-22,"Works fine, no issues so far.",6.0
+5546,1780,2024-09-30,Great tool but a bit expensive.,3.8
+5547,1262,2024-05-12,How do I reset my password?,5.5
+5548,1730,2024-03-05,Billing is incorrect for the third month in a row!,5.5
+5549,1283,2024-10-24,How do I reset my password?,5.5
+5550,1648,2024-06-01,"Works fine, no issues so far.",6.0
+5551,1467,2024-02-20,How do I reset my password?,5.5
+5552,1380,2024-02-03,Billing is incorrect for the third month in a row!,5.5
+5553,1362,2024-06-07,"Horrible customer service, canceling my account.",7.9
+5554,1449,2024-09-01,"The platform is too slow, I am losing money.",7.2
+5555,1441,2024-04-22,Billing is incorrect for the third month in a row!,5.5
+5556,1093,2024-10-27,Absolutely love the new dashboard update!,2.4
+5557,1621,2024-01-20,"Works fine, no issues so far.",6.0
+5558,1753,2024-04-25,"Horrible customer service, canceling my account.",7.9
+5559,1867,2024-05-12,Absolutely love the new dashboard update!,2.4
+5560,1424,2024-08-11,Absolutely love the new dashboard update!,2.4
+5561,1142,2024-06-17,"Works fine, no issues so far.",6.0
+5562,1291,2024-10-13,"Horrible customer service, canceling my account.",7.9
+5563,1432,2024-12-31,Great tool but a bit expensive.,3.8
+5564,1749,2024-12-13,Absolutely love the new dashboard update!,2.4
+5565,1852,2024-09-09,Absolutely love the new dashboard update!,2.4
+5566,1824,2024-03-04,"Horrible customer service, canceling my account.",7.9
+5567,1689,2024-12-19,How do I reset my password?,5.5
+5568,1653,2024-11-14,Absolutely love the new dashboard update!,2.4
+5569,1701,2024-01-09,"The platform is too slow, I am losing money.",7.2
+5570,1998,2024-02-21,"Horrible customer service, canceling my account.",7.9
+5571,1049,2024-10-01,Absolutely love the new dashboard update!,2.4
+5572,1302,2024-12-14,"Works fine, no issues so far.",6.0
+5573,1881,2024-07-20,Billing is incorrect for the third month in a row!,5.5
+5574,1190,2024-11-26,"The platform is too slow, I am losing money.",7.2
+5575,1136,2024-05-07,Billing is incorrect for the third month in a row!,5.5
+5576,1555,2024-05-30,Billing is incorrect for the third month in a row!,5.5
+5577,1404,2024-02-23,Absolutely love the new dashboard update!,2.4
+5578,1892,2024-05-13,"The platform is too slow, I am losing money.",7.2
+5579,1865,2024-12-29,"The platform is too slow, I am losing money.",7.2
+5580,1602,2024-02-15,How do I reset my password?,5.5
+5581,1807,2024-12-06,Billing is incorrect for the third month in a row!,5.5
+5582,1341,2024-08-02,"The platform is too slow, I am losing money.",7.2
+5583,1757,2024-07-25,How do I reset my password?,5.5
+5584,1945,2024-09-10,"Horrible customer service, canceling my account.",7.9
+5585,1704,2024-05-13,How do I reset my password?,5.5
+5586,1318,2024-05-22,"Works fine, no issues so far.",6.0
+5587,1618,2024-04-11,Great tool but a bit expensive.,3.8
+5588,1363,2024-02-29,Absolutely love the new dashboard update!,2.4
+5589,1822,2024-05-05,"Horrible customer service, canceling my account.",7.9
+5590,1382,2024-07-08,Great tool but a bit expensive.,3.8
+5591,1233,2024-05-19,Great tool but a bit expensive.,3.8
+5592,1777,2024-09-04,"Horrible customer service, canceling my account.",7.9
+5593,1344,2024-04-28,"Works fine, no issues so far.",6.0
+5594,1549,2024-09-26,How do I reset my password?,5.5
+5595,1817,2024-04-13,Absolutely love the new dashboard update!,2.4
+5596,1553,2024-02-21,How do I reset my password?,5.5
+5597,1529,2024-09-11,"The platform is too slow, I am losing money.",7.2
+5598,1856,2024-03-09,How do I reset my password?,5.5
+5599,1789,2024-01-12,"Horrible customer service, canceling my account.",7.9
+5600,1819,2024-09-16,Absolutely love the new dashboard update!,2.4
+5601,1571,2024-01-22,How do I reset my password?,5.5
+5602,1935,2024-09-02,Absolutely love the new dashboard update!,2.4
+5603,1183,2024-09-22,Absolutely love the new dashboard update!,2.4
+5604,1041,2024-06-05,"The platform is too slow, I am losing money.",7.2
+5605,1551,2024-04-06,"The platform is too slow, I am losing money.",7.2
+5606,1397,2024-11-02,"Horrible customer service, canceling my account.",7.9
+5607,1704,2024-09-12,"Works fine, no issues so far.",6.0
+5608,1779,2024-06-14,Great tool but a bit expensive.,3.8
+5609,1494,2024-10-06,Absolutely love the new dashboard update!,2.4
+5610,1659,2024-11-10,"Works fine, no issues so far.",6.0
+5611,1907,2024-04-01,Great tool but a bit expensive.,3.8
+5612,1333,2024-08-23,Great tool but a bit expensive.,3.8
+5613,1127,2024-10-24,"Horrible customer service, canceling my account.",7.9
+5614,1558,2024-12-23,Great tool but a bit expensive.,3.8
+5615,1557,2024-08-14,Great tool but a bit expensive.,3.8
+5616,1001,2024-12-20,Absolutely love the new dashboard update!,2.4
+5617,1168,2024-09-29,Absolutely love the new dashboard update!,2.4
+5618,1620,2024-09-03,Billing is incorrect for the third month in a row!,5.5
+5619,1019,2024-10-06,"Works fine, no issues so far.",6.0
+5620,1332,2024-06-11,How do I reset my password?,5.5
+5621,1584,2024-10-09,"The platform is too slow, I am losing money.",7.2
+5622,1456,2024-11-21,How do I reset my password?,5.5
+5623,1957,2024-08-14,"Works fine, no issues so far.",6.0
+5624,1109,2024-03-26,"The platform is too slow, I am losing money.",7.2
+5625,1268,2024-04-04,How do I reset my password?,5.5
+5626,1445,2024-03-02,Billing is incorrect for the third month in a row!,5.5
+5627,1240,2024-04-08,"The platform is too slow, I am losing money.",7.2
+5628,1929,2024-04-29,Absolutely love the new dashboard update!,2.4
+5629,1301,2024-04-17,How do I reset my password?,5.5
+5630,1602,2024-05-28,"The platform is too slow, I am losing money.",7.2
+5631,1103,2024-11-04,Billing is incorrect for the third month in a row!,5.5
+5632,1988,2024-11-29,Great tool but a bit expensive.,3.8
+5633,1250,2024-12-13,"The platform is too slow, I am losing money.",7.2
+5634,1453,2024-03-05,"The platform is too slow, I am losing money.",7.2
+5635,1520,2024-05-18,Billing is incorrect for the third month in a row!,5.5
+5636,1153,2024-02-14,Great tool but a bit expensive.,3.8
+5637,1859,2024-08-02,How do I reset my password?,5.5
+5638,1174,2024-04-11,"Horrible customer service, canceling my account.",7.9
+5639,1343,2024-09-02,How do I reset my password?,5.5
+5640,1670,2024-04-30,Great tool but a bit expensive.,3.8
+5641,1431,2024-09-11,"Works fine, no issues so far.",6.0
+5642,1727,2024-04-18,Billing is incorrect for the third month in a row!,5.5
+5643,1689,2024-06-17,How do I reset my password?,5.5
+5644,1687,2024-08-02,"The platform is too slow, I am losing money.",7.2
+5645,1852,2024-12-12,Billing is incorrect for the third month in a row!,5.5
+5646,1850,2024-12-28,Absolutely love the new dashboard update!,2.4
+5647,1658,2024-10-08,Great tool but a bit expensive.,3.8
+5648,1962,2024-02-14,How do I reset my password?,5.5
+5649,1324,2024-12-10,Billing is incorrect for the third month in a row!,5.5
+5650,1990,2024-11-23,How do I reset my password?,5.5
+5651,1673,2024-07-27,Billing is incorrect for the third month in a row!,5.5
+5652,1639,2024-08-26,"The platform is too slow, I am losing money.",7.2
+5653,1420,2024-08-03,Absolutely love the new dashboard update!,2.4
+5654,1594,2024-08-30,Absolutely love the new dashboard update!,2.4
+5655,1485,2024-11-10,"Works fine, no issues so far.",6.0
+5656,1659,2024-06-05,Billing is incorrect for the third month in a row!,5.5
+5657,1751,2024-12-03,How do I reset my password?,5.5
+5658,1412,2024-09-07,Absolutely love the new dashboard update!,2.4
+5659,1936,2024-02-25,Great tool but a bit expensive.,3.8
+5660,1084,2024-03-02,Absolutely love the new dashboard update!,2.4
+5661,1113,2024-07-26,"Horrible customer service, canceling my account.",7.9
+5662,1737,2024-04-08,"Horrible customer service, canceling my account.",7.9
+5663,1332,2024-08-21,Absolutely love the new dashboard update!,2.4
+5664,1378,2024-06-18,Billing is incorrect for the third month in a row!,5.5
+5665,1755,2024-07-06,"Works fine, no issues so far.",6.0
+5666,1655,2024-06-01,Absolutely love the new dashboard update!,2.4
+5667,1041,2024-01-13,"The platform is too slow, I am losing money.",7.2
+5668,1935,2024-07-11,How do I reset my password?,5.5
+5669,1770,2024-04-12,"Works fine, no issues so far.",6.0
+5670,1959,2024-04-16,"The platform is too slow, I am losing money.",7.2
+5671,1797,2024-07-01,"Works fine, no issues so far.",6.0
+5672,1105,2024-10-08,"The platform is too slow, I am losing money.",7.2
+5673,1202,2024-12-16,How do I reset my password?,5.5
+5674,1450,2024-05-01,How do I reset my password?,5.5
+5675,1819,2024-05-02,"Horrible customer service, canceling my account.",7.9
+5676,1843,2024-11-30,Billing is incorrect for the third month in a row!,5.5
+5677,1973,2024-08-30,"The platform is too slow, I am losing money.",7.2
+5678,1266,2024-04-25,"Horrible customer service, canceling my account.",7.9
+5679,1910,2024-02-23,"The platform is too slow, I am losing money.",7.2
+5680,1210,2024-01-12,"Horrible customer service, canceling my account.",7.9
+5681,1563,2024-05-06,How do I reset my password?,5.5
+5682,1118,2024-09-18,"Works fine, no issues so far.",6.0
+5683,1713,2024-11-21,Great tool but a bit expensive.,3.8
+5684,1377,2024-10-10,"Horrible customer service, canceling my account.",7.9
+5685,1551,2024-01-21,"The platform is too slow, I am losing money.",7.2
+5686,1540,2024-01-15,"The platform is too slow, I am losing money.",7.2
+5687,1771,2024-10-02,Great tool but a bit expensive.,3.8
+5688,1084,2024-05-23,Billing is incorrect for the third month in a row!,5.5
+5689,1454,2024-07-14,How do I reset my password?,5.5
+5690,1667,2024-11-30,"The platform is too slow, I am losing money.",7.2
+5691,1629,2024-11-22,Absolutely love the new dashboard update!,2.4
+5692,1514,2024-10-21,"Works fine, no issues so far.",6.0
+5693,1605,2024-01-05,"Horrible customer service, canceling my account.",7.9
+5694,1678,2024-08-30,Billing is incorrect for the third month in a row!,5.5
+5695,1387,2024-06-27,Great tool but a bit expensive.,3.8
+5696,1912,2024-08-16,"Works fine, no issues so far.",6.0
+5697,1350,2024-11-12,How do I reset my password?,5.5
+5698,1296,2024-01-03,Billing is incorrect for the third month in a row!,5.5
+5699,1258,2024-02-24,"Horrible customer service, canceling my account.",7.9
+5700,1081,2024-02-16,"Horrible customer service, canceling my account.",7.9
+5701,1937,2024-06-19,Great tool but a bit expensive.,3.8
+5702,1268,2024-04-13,Absolutely love the new dashboard update!,2.4
+5703,1419,2024-04-04,Great tool but a bit expensive.,3.8
+5704,1235,2024-05-12,How do I reset my password?,5.5
+5705,1833,2024-12-24,Billing is incorrect for the third month in a row!,5.5
+5706,1311,2024-02-22,Billing is incorrect for the third month in a row!,5.5
+5707,1813,2024-06-03,"The platform is too slow, I am losing money.",7.2
+5708,1975,2024-04-19,Absolutely love the new dashboard update!,2.4
+5709,1986,2024-06-07,Absolutely love the new dashboard update!,2.4
+5710,1357,2024-12-01,Billing is incorrect for the third month in a row!,5.5
+5711,1213,2024-10-28,Billing is incorrect for the third month in a row!,5.5
+5712,1574,2024-02-18,"Works fine, no issues so far.",6.0
+5713,1049,2024-11-17,"Works fine, no issues so far.",6.0
+5714,1127,2024-09-18,"Works fine, no issues so far.",6.0
+5715,1223,2024-10-05,Absolutely love the new dashboard update!,2.4
+5716,1921,2024-06-18,"The platform is too slow, I am losing money.",7.2
+5717,1279,2024-03-04,"Horrible customer service, canceling my account.",7.9
+5718,1408,2024-06-25,"Works fine, no issues so far.",6.0
+5719,1505,2024-11-25,"The platform is too slow, I am losing money.",7.2
+5720,1294,2024-08-09,Great tool but a bit expensive.,3.8
+5721,1796,2024-06-18,How do I reset my password?,5.5
+5722,1277,2024-02-14,"Works fine, no issues so far.",6.0
+5723,1438,2024-03-08,Great tool but a bit expensive.,3.8
+5724,1107,2024-06-23,"Horrible customer service, canceling my account.",7.9
+5725,1658,2024-08-20,How do I reset my password?,5.5
+5726,1420,2024-10-10,How do I reset my password?,5.5
+5727,1611,2024-07-25,"Horrible customer service, canceling my account.",7.9
+5728,1429,2024-06-30,"Works fine, no issues so far.",6.0
+5729,1375,2024-08-03,Absolutely love the new dashboard update!,2.4
+5730,1073,2024-06-15,"Horrible customer service, canceling my account.",7.9
+5731,1949,2024-05-07,"Horrible customer service, canceling my account.",7.9
+5732,1998,2024-08-03,"Horrible customer service, canceling my account.",7.9
+5733,1634,2024-04-09,How do I reset my password?,5.5
+5734,1030,2024-08-27,"The platform is too slow, I am losing money.",7.2
+5735,1188,2024-08-22,Great tool but a bit expensive.,3.8
+5736,1364,2024-03-06,Absolutely love the new dashboard update!,2.4
+5737,1866,2024-08-11,"Works fine, no issues so far.",6.0
+5738,1800,2024-10-17,"Works fine, no issues so far.",6.0
+5739,1451,2024-11-10,Great tool but a bit expensive.,3.8
+5740,1195,2024-01-19,"The platform is too slow, I am losing money.",7.2
+5741,1156,2024-09-11,"Horrible customer service, canceling my account.",7.9
+5742,1172,2024-12-12,Absolutely love the new dashboard update!,2.4
+5743,1847,2024-04-25,"Works fine, no issues so far.",6.0
+5744,1041,2024-04-09,Great tool but a bit expensive.,3.8
+5745,1063,2024-08-17,Billing is incorrect for the third month in a row!,5.5
+5746,1023,2024-10-18,Great tool but a bit expensive.,3.8
+5747,1360,2024-08-15,"Works fine, no issues so far.",6.0
+5748,1075,2024-09-19,"Horrible customer service, canceling my account.",7.9
+5749,1560,2024-08-22,Billing is incorrect for the third month in a row!,5.5
+5750,1672,2024-01-03,"The platform is too slow, I am losing money.",7.2
+5751,1825,2024-08-05,Absolutely love the new dashboard update!,2.4
+5752,1118,2024-12-01,"The platform is too slow, I am losing money.",7.2
+5753,1612,2024-11-26,"The platform is too slow, I am losing money.",7.2
+5754,1380,2024-07-14,Great tool but a bit expensive.,3.8
+5755,1929,2024-08-08,Absolutely love the new dashboard update!,2.4
+5756,1920,2024-06-07,Absolutely love the new dashboard update!,2.4
+5757,1679,2024-09-16,"Works fine, no issues so far.",6.0
+5758,1290,2024-09-10,"Works fine, no issues so far.",6.0
+5759,1440,2024-02-03,Absolutely love the new dashboard update!,2.4
+5760,1668,2024-09-01,Billing is incorrect for the third month in a row!,5.5
+5761,1933,2024-10-08,How do I reset my password?,5.5
+5762,1007,2024-01-06,"Works fine, no issues so far.",6.0
+5763,1196,2024-12-04,How do I reset my password?,5.5
+5764,1421,2024-05-09,Great tool but a bit expensive.,3.8
+5765,1568,2024-12-01,Billing is incorrect for the third month in a row!,5.5
+5766,1833,2024-03-11,Absolutely love the new dashboard update!,2.4
+5767,1193,2024-02-19,Billing is incorrect for the third month in a row!,5.5
+5768,1559,2024-04-07,"Works fine, no issues so far.",6.0
+5769,1148,2024-08-11,"The platform is too slow, I am losing money.",7.2
+5770,1787,2024-12-22,Great tool but a bit expensive.,3.8
+5771,1669,2024-12-03,Absolutely love the new dashboard update!,2.4
+5772,1202,2024-12-24,"Horrible customer service, canceling my account.",7.9
+5773,1444,2024-02-13,Great tool but a bit expensive.,3.8
+5774,1914,2024-06-16,How do I reset my password?,5.5
+5775,1988,2024-05-18,Billing is incorrect for the third month in a row!,5.5
+5776,1419,2024-07-11,Absolutely love the new dashboard update!,2.4
+5777,1427,2024-06-26,Great tool but a bit expensive.,3.8
+5778,1479,2024-09-24,Billing is incorrect for the third month in a row!,5.5
+5779,1475,2024-12-06,Absolutely love the new dashboard update!,2.4
+5780,1126,2024-10-06,"Works fine, no issues so far.",6.0
+5781,1395,2024-11-14,Great tool but a bit expensive.,3.8
+5782,1817,2024-09-10,"Works fine, no issues so far.",6.0
+5783,1881,2024-07-30,Great tool but a bit expensive.,3.8
+5784,1806,2024-04-03,"Works fine, no issues so far.",6.0
+5785,1576,2024-04-26,Billing is incorrect for the third month in a row!,5.5
+5786,1325,2024-09-01,"Horrible customer service, canceling my account.",7.9
+5787,1392,2024-02-11,Great tool but a bit expensive.,3.8
+5788,1930,2024-08-02,Great tool but a bit expensive.,3.8
+5789,1688,2024-03-23,"Works fine, no issues so far.",6.0
+5790,1628,2024-03-28,Absolutely love the new dashboard update!,2.4
+5791,1440,2024-08-25,Great tool but a bit expensive.,3.8
+5792,1204,2024-10-16,"Works fine, no issues so far.",6.0
+5793,1486,2024-10-16,"The platform is too slow, I am losing money.",7.2
+5794,1833,2024-06-10,"Works fine, no issues so far.",6.0
+5795,1031,2024-03-30,Billing is incorrect for the third month in a row!,5.5
+5796,1388,2024-05-03,"Horrible customer service, canceling my account.",7.9
+5797,1625,2024-04-23,"The platform is too slow, I am losing money.",7.2
+5798,1877,2024-06-07,Billing is incorrect for the third month in a row!,5.5
+5799,1434,2024-01-05,Billing is incorrect for the third month in a row!,5.5
+5800,1837,2024-05-13,Billing is incorrect for the third month in a row!,5.5
+5801,1926,2024-07-03,Absolutely love the new dashboard update!,2.4
+5802,1376,2024-08-09,Billing is incorrect for the third month in a row!,5.5
+5803,1344,2024-01-15,Absolutely love the new dashboard update!,2.4
+5804,1443,2024-12-27,Billing is incorrect for the third month in a row!,5.5
+5805,1579,2024-09-15,How do I reset my password?,5.5
+5806,1075,2024-07-29,"The platform is too slow, I am losing money.",7.2
+5807,1557,2024-03-24,How do I reset my password?,5.5
+5808,1772,2024-02-07,Billing is incorrect for the third month in a row!,5.5
+5809,1666,2024-03-25,"The platform is too slow, I am losing money.",7.2
+5810,1155,2024-07-22,"The platform is too slow, I am losing money.",7.2
+5811,1430,2024-12-26,Great tool but a bit expensive.,3.8
+5812,1363,2024-12-25,"Horrible customer service, canceling my account.",7.9
+5813,1448,2024-07-15,How do I reset my password?,5.5
+5814,1987,2024-02-07,"Horrible customer service, canceling my account.",7.9
+5815,1234,2024-07-16,"The platform is too slow, I am losing money.",7.2
+5816,1563,2024-11-03,Absolutely love the new dashboard update!,2.4
+5817,1818,2024-09-22,"The platform is too slow, I am losing money.",7.2
+5818,1262,2024-07-02,"Horrible customer service, canceling my account.",7.9
+5819,1827,2024-01-06,How do I reset my password?,5.5
+5820,1125,2024-12-04,Billing is incorrect for the third month in a row!,5.5
+5821,1911,2024-01-17,Great tool but a bit expensive.,3.8
+5822,1245,2024-12-29,Great tool but a bit expensive.,3.8
+5823,1542,2024-09-02,Great tool but a bit expensive.,3.8
+5824,1938,2024-12-19,Billing is incorrect for the third month in a row!,5.5
+5825,1485,2024-10-05,Great tool but a bit expensive.,3.8
+5826,1122,2024-04-16,How do I reset my password?,5.5
+5827,1125,2024-06-14,Billing is incorrect for the third month in a row!,5.5
+5828,1549,2024-12-02,Great tool but a bit expensive.,3.8
+5829,1170,2024-04-01,Billing is incorrect for the third month in a row!,5.5
+5830,1124,2024-02-13,"Horrible customer service, canceling my account.",7.9
+5831,1869,2024-09-30,How do I reset my password?,5.5
+5832,1035,2024-05-13,"Works fine, no issues so far.",6.0
+5833,1087,2024-02-03,Absolutely love the new dashboard update!,2.4
+5834,1646,2024-02-23,Great tool but a bit expensive.,3.8
+5835,1708,2024-07-25,Absolutely love the new dashboard update!,2.4
+5836,1786,2024-02-19,Billing is incorrect for the third month in a row!,5.5
+5837,1201,2024-06-19,Absolutely love the new dashboard update!,2.4
+5838,1369,2024-12-27,How do I reset my password?,5.5
+5839,1797,2024-07-13,How do I reset my password?,5.5
+5840,1077,2024-10-07,"The platform is too slow, I am losing money.",7.2
+5841,1059,2024-02-03,Great tool but a bit expensive.,3.8
+5842,1431,2024-05-27,"The platform is too slow, I am losing money.",7.2
+5843,1638,2024-07-07,Absolutely love the new dashboard update!,2.4
+5844,1500,2024-11-02,"Works fine, no issues so far.",6.0
+5845,1913,2024-05-20,"The platform is too slow, I am losing money.",7.2
+5846,1109,2024-05-21,"The platform is too slow, I am losing money.",7.2
+5847,1736,2024-10-19,How do I reset my password?,5.5
+5848,1278,2024-03-13,"Works fine, no issues so far.",6.0
+5849,1068,2024-02-13,Billing is incorrect for the third month in a row!,5.5
+5850,1069,2024-10-17,Absolutely love the new dashboard update!,2.4
+5851,1165,2024-05-14,"The platform is too slow, I am losing money.",7.2
+5852,1489,2024-01-27,"Works fine, no issues so far.",6.0
+5853,1305,2024-10-08,Great tool but a bit expensive.,3.8
+5854,1909,2024-11-13,"Works fine, no issues so far.",6.0
+5855,1674,2024-05-04,Absolutely love the new dashboard update!,2.4
+5856,1365,2024-03-30,"Works fine, no issues so far.",6.0
+5857,1854,2024-01-08,"Works fine, no issues so far.",6.0
+5858,1821,2024-08-03,"Works fine, no issues so far.",6.0
+5859,1379,2024-04-13,Great tool but a bit expensive.,3.8
+5860,1343,2024-12-17,"The platform is too slow, I am losing money.",7.2
+5861,1947,2024-10-22,Absolutely love the new dashboard update!,2.4
+5862,1899,2024-06-25,Great tool but a bit expensive.,3.8
+5863,1554,2024-11-11,"Works fine, no issues so far.",6.0
+5864,1354,2024-10-16,"Works fine, no issues so far.",6.0
+5865,1416,2024-05-18,"The platform is too slow, I am losing money.",7.2
+5866,1109,2024-03-09,Absolutely love the new dashboard update!,2.4
+5867,1563,2024-09-29,How do I reset my password?,5.5
+5868,1762,2024-04-08,Great tool but a bit expensive.,3.8
+5869,1497,2024-02-09,"The platform is too slow, I am losing money.",7.2
+5870,1341,2024-07-17,Absolutely love the new dashboard update!,2.4
+5871,1942,2024-11-13,Great tool but a bit expensive.,3.8
+5872,1383,2024-08-20,"Works fine, no issues so far.",6.0
+5873,1533,2024-01-10,Absolutely love the new dashboard update!,2.4
+5874,1300,2024-09-24,Absolutely love the new dashboard update!,2.4
+5875,1139,2024-07-29,Billing is incorrect for the third month in a row!,5.5
+5876,1359,2024-02-08,Absolutely love the new dashboard update!,2.4
+5877,1836,2024-07-22,How do I reset my password?,5.5
+5878,1499,2024-03-31,Absolutely love the new dashboard update!,2.4
+5879,1385,2024-04-18,How do I reset my password?,5.5
+5880,1604,2024-10-18,"Works fine, no issues so far.",6.0
+5881,1959,2024-04-06,How do I reset my password?,5.5
+5882,1280,2024-07-18,Great tool but a bit expensive.,3.8
+5883,1637,2024-12-29,"Works fine, no issues so far.",6.0
+5884,1483,2024-10-05,"Works fine, no issues so far.",6.0
+5885,1909,2024-12-27,How do I reset my password?,5.5
+5886,1111,2024-04-13,"The platform is too slow, I am losing money.",7.2
+5887,1866,2024-11-09,"Horrible customer service, canceling my account.",7.9
+5888,1139,2024-11-28,Absolutely love the new dashboard update!,2.4
+5889,1996,2024-07-26,Billing is incorrect for the third month in a row!,5.5
+5890,1435,2024-08-24,"Horrible customer service, canceling my account.",7.9
+5891,1509,2024-08-08,Absolutely love the new dashboard update!,2.4
+5892,1273,2024-05-07,Absolutely love the new dashboard update!,2.4
+5893,1099,2024-01-14,"Works fine, no issues so far.",6.0
+5894,1764,2024-04-17,Absolutely love the new dashboard update!,2.4
+5895,1850,2024-06-18,Billing is incorrect for the third month in a row!,5.5
+5896,1104,2024-10-17,Absolutely love the new dashboard update!,2.4
+5897,1214,2024-05-24,How do I reset my password?,5.5
+5898,1761,2024-05-16,"Horrible customer service, canceling my account.",7.9
+5899,1664,2024-07-12,How do I reset my password?,5.5
+5900,1762,2024-04-19,Billing is incorrect for the third month in a row!,5.5
+5901,1787,2024-07-11,Absolutely love the new dashboard update!,2.4
+5902,1165,2024-12-17,Great tool but a bit expensive.,3.8
+5903,1999,2024-06-23,Billing is incorrect for the third month in a row!,5.5
+5904,1853,2024-11-18,"Works fine, no issues so far.",6.0
+5905,1520,2024-05-29,How do I reset my password?,5.5
+5906,1284,2024-09-29,How do I reset my password?,5.5
+5907,1517,2024-10-02,"The platform is too slow, I am losing money.",7.2
+5908,1657,2024-04-19,Absolutely love the new dashboard update!,2.4
+5909,1613,2024-02-02,"Works fine, no issues so far.",6.0
+5910,1164,2024-01-22,Great tool but a bit expensive.,3.8
+5911,1886,2024-12-19,How do I reset my password?,5.5
+5912,1659,2024-03-23,How do I reset my password?,5.5
+5913,1064,2024-04-17,"Works fine, no issues so far.",6.0
+5914,1091,2024-02-26,Billing is incorrect for the third month in a row!,5.5
+5915,1117,2024-10-03,Billing is incorrect for the third month in a row!,5.5
+5916,1866,2024-04-18,Absolutely love the new dashboard update!,2.4
+5917,1267,2024-11-05,"The platform is too slow, I am losing money.",7.2
+5918,1822,2024-07-22,How do I reset my password?,5.5
+5919,1685,2024-01-06,"The platform is too slow, I am losing money.",7.2
+5920,1559,2024-08-17,Billing is incorrect for the third month in a row!,5.5
+5921,1140,2024-03-19,Billing is incorrect for the third month in a row!,5.5
+5922,1246,2024-01-27,"Horrible customer service, canceling my account.",7.9
+5923,1661,2024-08-29,Great tool but a bit expensive.,3.8
+5924,1758,2024-04-06,Absolutely love the new dashboard update!,2.4
+5925,1395,2024-04-08,"Horrible customer service, canceling my account.",7.9
+5926,1487,2024-08-29,Great tool but a bit expensive.,3.8
+5927,1476,2024-09-21,"Horrible customer service, canceling my account.",7.9
+5928,1517,2024-06-10,"Horrible customer service, canceling my account.",7.9
+5929,1977,2024-08-28,Absolutely love the new dashboard update!,2.4
+5930,1184,2024-10-02,Absolutely love the new dashboard update!,2.4
+5931,1020,2024-10-05,"Works fine, no issues so far.",6.0
+5932,1937,2024-10-28,"The platform is too slow, I am losing money.",7.2
+5933,1558,2024-11-14,"The platform is too slow, I am losing money.",7.2
+5934,1524,2024-07-10,"Works fine, no issues so far.",6.0
+5935,1582,2024-06-07,"Works fine, no issues so far.",6.0
+5936,1529,2024-10-27,Billing is incorrect for the third month in a row!,5.5
+5937,1883,2024-02-27,Great tool but a bit expensive.,3.8
+5938,1147,2024-02-09,"Horrible customer service, canceling my account.",7.9
+5939,1666,2024-01-15,"Works fine, no issues so far.",6.0
+5940,1304,2024-11-22,How do I reset my password?,5.5
+5941,1620,2024-05-20,"The platform is too slow, I am losing money.",7.2
+5942,1748,2024-02-25,"Works fine, no issues so far.",6.0
+5943,1820,2024-04-01,How do I reset my password?,5.5
+5944,1864,2024-03-22,How do I reset my password?,5.5
+5945,1582,2024-03-08,How do I reset my password?,5.5
+5946,1695,2024-02-16,Billing is incorrect for the third month in a row!,5.5
+5947,1762,2024-07-06,Billing is incorrect for the third month in a row!,5.5
+5948,1228,2024-08-22,How do I reset my password?,5.5
+5949,1102,2024-12-04,Great tool but a bit expensive.,3.8
+5950,1587,2024-10-19,Billing is incorrect for the third month in a row!,5.5
+5951,1417,2024-06-17,"Horrible customer service, canceling my account.",7.9
+5952,1958,2024-08-31,How do I reset my password?,5.5
+5953,1216,2024-04-10,"Horrible customer service, canceling my account.",7.9
+5954,1407,2024-04-11,"Horrible customer service, canceling my account.",7.9
+5955,1399,2024-05-23,How do I reset my password?,5.5
+5956,1923,2024-12-23,"The platform is too slow, I am losing money.",7.2
+5957,1715,2024-04-03,Great tool but a bit expensive.,3.8
+5958,1704,2024-11-09,How do I reset my password?,5.5
+5959,1761,2024-04-09,How do I reset my password?,5.5
+5960,1499,2024-10-12,Billing is incorrect for the third month in a row!,5.5
+5961,1754,2024-07-17,How do I reset my password?,5.5
+5962,1465,2024-02-21,"The platform is too slow, I am losing money.",7.2
+5963,1691,2024-10-16,Billing is incorrect for the third month in a row!,5.5
+5964,1949,2024-11-26,Absolutely love the new dashboard update!,2.4
+5965,1974,2024-04-19,Absolutely love the new dashboard update!,2.4
+5966,1731,2024-11-06,"Horrible customer service, canceling my account.",7.9
+5967,1082,2024-02-18,Great tool but a bit expensive.,3.8
+5968,1604,2024-04-11,"Horrible customer service, canceling my account.",7.9
+5969,1947,2024-05-15,"The platform is too slow, I am losing money.",7.2
+5970,1687,2024-01-24,"Works fine, no issues so far.",6.0
+5971,1751,2024-05-12,Great tool but a bit expensive.,3.8
+5972,1772,2024-01-15,Absolutely love the new dashboard update!,2.4
+5973,1903,2024-02-27,"Horrible customer service, canceling my account.",7.9
+5974,1365,2024-12-25,Absolutely love the new dashboard update!,2.4
+5975,1163,2024-07-01,"The platform is too slow, I am losing money.",7.2
+5976,1048,2024-12-01,"The platform is too slow, I am losing money.",7.2
+5977,1511,2024-11-01,"Works fine, no issues so far.",6.0
+5978,1329,2024-01-22,"Works fine, no issues so far.",6.0
+5979,1840,2024-06-21,Billing is incorrect for the third month in a row!,5.5
+5980,1116,2024-02-05,Great tool but a bit expensive.,3.8
+5981,1941,2024-05-02,"The platform is too slow, I am losing money.",7.2
+5982,1849,2024-07-08,"Horrible customer service, canceling my account.",7.9
+5983,1337,2024-08-29,Absolutely love the new dashboard update!,2.4
+5984,1881,2024-04-11,How do I reset my password?,5.5
+5985,1737,2024-02-08,"Works fine, no issues so far.",6.0
+5986,1864,2024-03-12,How do I reset my password?,5.5
+5987,1840,2024-02-11,"Horrible customer service, canceling my account.",7.9
+5988,1147,2024-08-10,"Works fine, no issues so far.",6.0
+5989,1575,2024-04-13,How do I reset my password?,5.5
+5990,1806,2024-07-24,Great tool but a bit expensive.,3.8
+5991,1323,2024-09-16,"Horrible customer service, canceling my account.",7.9
+5992,1443,2024-10-12,Absolutely love the new dashboard update!,2.4
+5993,1837,2024-11-05,Great tool but a bit expensive.,3.8
+5994,1013,2024-12-23,"Horrible customer service, canceling my account.",7.9
+5995,1943,2024-06-03,Billing is incorrect for the third month in a row!,5.5
+5996,1494,2024-05-16,"Works fine, no issues so far.",6.0
+5997,1701,2024-10-29,"The platform is too slow, I am losing money.",7.2
+5998,1287,2024-09-30,Absolutely love the new dashboard update!,2.4
+5999,1720,2024-09-09,Great tool but a bit expensive.,3.8
+6000,1114,2024-12-31,Great tool but a bit expensive.,3.8
+6001,1480,2024-04-27,How do I reset my password?,5.5
+6002,1022,2024-02-15,"Works fine, no issues so far.",6.0
+6003,1349,2024-08-20,"The platform is too slow, I am losing money.",7.2
+6004,1726,2024-11-19,"Horrible customer service, canceling my account.",7.9
+6005,1683,2024-11-14,"The platform is too slow, I am losing money.",7.2
+6006,1835,2024-06-12,"Works fine, no issues so far.",6.0
+6007,1566,2024-03-10,"Works fine, no issues so far.",6.0
+6008,1906,2024-04-13,Billing is incorrect for the third month in a row!,5.5
+6009,1810,2024-02-01,Billing is incorrect for the third month in a row!,5.5
+6010,1320,2024-03-12,"The platform is too slow, I am losing money.",7.2
+6011,1126,2024-11-24,"Horrible customer service, canceling my account.",7.9
+6012,1277,2024-07-19,"The platform is too slow, I am losing money.",7.2
+6013,1976,2024-10-03,"Works fine, no issues so far.",6.0
+6014,1204,2024-01-28,"Works fine, no issues so far.",6.0
+6015,1194,2024-06-19,How do I reset my password?,5.5
+6016,1681,2024-10-17,Billing is incorrect for the third month in a row!,5.5
+6017,1664,2024-07-29,How do I reset my password?,5.5
+6018,1547,2024-03-09,Absolutely love the new dashboard update!,2.4
+6019,1696,2024-09-12,"Works fine, no issues so far.",6.0
+6020,1286,2024-04-26,How do I reset my password?,5.5
+6021,1057,2024-07-04,"The platform is too slow, I am losing money.",7.2
+6022,1734,2024-06-19,Billing is incorrect for the third month in a row!,5.5
+6023,1303,2024-02-20,Billing is incorrect for the third month in a row!,5.5
+6024,1163,2024-07-09,"Horrible customer service, canceling my account.",7.9
+6025,1019,2024-02-12,"The platform is too slow, I am losing money.",7.2
+6026,1370,2024-02-12,"Horrible customer service, canceling my account.",7.9
+6027,1264,2024-01-24,How do I reset my password?,5.5
+6028,1794,2024-08-03,Great tool but a bit expensive.,3.8
+6029,1113,2024-09-29,Absolutely love the new dashboard update!,2.4
+6030,1488,2024-05-22,"The platform is too slow, I am losing money.",7.2
+6031,1327,2024-10-21,"The platform is too slow, I am losing money.",7.2
+6032,1542,2024-05-13,"The platform is too slow, I am losing money.",7.2
+6033,1647,2024-11-26,"Horrible customer service, canceling my account.",7.9
+6034,1579,2024-08-27,How do I reset my password?,5.5
+6035,1065,2024-05-27,"The platform is too slow, I am losing money.",7.2
+6036,1292,2024-03-27,Great tool but a bit expensive.,3.8
+6037,1025,2024-01-17,"The platform is too slow, I am losing money.",7.2
+6038,1549,2024-07-29,Billing is incorrect for the third month in a row!,5.5
+6039,1001,2024-08-26,Absolutely love the new dashboard update!,2.4
+6040,1911,2024-04-24,Billing is incorrect for the third month in a row!,5.5
+6041,1549,2024-03-04,Billing is incorrect for the third month in a row!,5.5
+6042,1141,2024-01-25,Absolutely love the new dashboard update!,2.4
+6043,1744,2024-10-12,Great tool but a bit expensive.,3.8
+6044,1648,2024-03-28,How do I reset my password?,5.5
+6045,1901,2024-10-15,Billing is incorrect for the third month in a row!,5.5
+6046,1188,2024-10-17,How do I reset my password?,5.5
+6047,1128,2024-03-21,Billing is incorrect for the third month in a row!,5.5
+6048,1201,2024-08-08,"Works fine, no issues so far.",6.0
+6049,1127,2024-06-27,Absolutely love the new dashboard update!,2.4
+6050,1257,2024-06-11,Billing is incorrect for the third month in a row!,5.5
+6051,1676,2024-09-01,"Works fine, no issues so far.",6.0
+6052,1547,2024-08-30,"Horrible customer service, canceling my account.",7.9
+6053,1194,2024-10-29,"Works fine, no issues so far.",6.0
+6054,1703,2024-06-01,"The platform is too slow, I am losing money.",7.2
+6055,1104,2024-10-16,Billing is incorrect for the third month in a row!,5.5
+6056,1535,2024-04-09,"Works fine, no issues so far.",6.0
+6057,1265,2024-09-04,How do I reset my password?,5.5
+6058,1802,2024-05-05,"Horrible customer service, canceling my account.",7.9
+6059,1942,2024-05-03,Great tool but a bit expensive.,3.8
+6060,1974,2024-02-26,Billing is incorrect for the third month in a row!,5.5
+6061,1384,2024-10-12,"The platform is too slow, I am losing money.",7.2
+6062,1260,2024-03-13,Great tool but a bit expensive.,3.8
+6063,1414,2024-02-26,"Works fine, no issues so far.",6.0
+6064,1991,2024-04-17,Great tool but a bit expensive.,3.8
+6065,1358,2024-08-30,Great tool but a bit expensive.,3.8
+6066,1075,2024-06-14,"Horrible customer service, canceling my account.",7.9
+6067,1355,2024-06-23,Great tool but a bit expensive.,3.8
+6068,1584,2024-09-01,Great tool but a bit expensive.,3.8
+6069,1771,2024-09-26,Billing is incorrect for the third month in a row!,5.5
+6070,1910,2024-11-30,"Horrible customer service, canceling my account.",7.9
+6071,1188,2024-08-15,"The platform is too slow, I am losing money.",7.2
+6072,1973,2024-09-02,"Works fine, no issues so far.",6.0
+6073,1685,2024-10-14,"Horrible customer service, canceling my account.",7.9
+6074,1992,2024-03-13,"Horrible customer service, canceling my account.",7.9
+6075,1290,2024-09-07,Absolutely love the new dashboard update!,2.4
+6076,1045,2024-01-10,"Horrible customer service, canceling my account.",7.9
+6077,1573,2024-09-24,Absolutely love the new dashboard update!,2.4
+6078,1083,2024-03-01,"Works fine, no issues so far.",6.0
+6079,1123,2024-12-12,Great tool but a bit expensive.,3.8
+6080,1358,2024-03-14,Billing is incorrect for the third month in a row!,5.5
+6081,1528,2024-07-24,Billing is incorrect for the third month in a row!,5.5
+6082,1066,2024-01-15,"Works fine, no issues so far.",6.0
+6083,1936,2024-11-21,"Works fine, no issues so far.",6.0
+6084,1657,2024-08-02,How do I reset my password?,5.5
+6085,1375,2024-07-25,Great tool but a bit expensive.,3.8
+6086,1162,2024-06-29,"Works fine, no issues so far.",6.0
+6087,1746,2024-07-24,"Horrible customer service, canceling my account.",7.9
+6088,1380,2024-08-04,Billing is incorrect for the third month in a row!,5.5
+6089,1656,2024-07-06,"The platform is too slow, I am losing money.",7.2
+6090,1358,2024-04-11,Billing is incorrect for the third month in a row!,5.5
+6091,1188,2024-03-25,Absolutely love the new dashboard update!,2.4
+6092,1322,2024-09-03,Billing is incorrect for the third month in a row!,5.5
+6093,1450,2024-07-01,How do I reset my password?,5.5
+6094,1474,2024-12-28,Great tool but a bit expensive.,3.8
+6095,1013,2024-12-22,"Works fine, no issues so far.",6.0
+6096,1184,2024-06-27,Great tool but a bit expensive.,3.8
+6097,1111,2024-07-29,"Works fine, no issues so far.",6.0
+6098,1927,2024-07-11,Billing is incorrect for the third month in a row!,5.5
+6099,1508,2024-10-15,"The platform is too slow, I am losing money.",7.2
+6100,1290,2024-06-07,"The platform is too slow, I am losing money.",7.2
+6101,1295,2024-04-30,How do I reset my password?,5.5
+6102,1451,2024-04-06,Absolutely love the new dashboard update!,2.4
+6103,1904,2024-01-02,Billing is incorrect for the third month in a row!,5.5
+6104,1215,2024-10-09,"Works fine, no issues so far.",6.0
+6105,1974,2024-04-08,Billing is incorrect for the third month in a row!,5.5
+6106,1632,2024-01-18,How do I reset my password?,5.5
+6107,1894,2024-04-10,"Horrible customer service, canceling my account.",7.9
+6108,1567,2024-05-25,"Horrible customer service, canceling my account.",7.9
+6109,1027,2024-02-24,How do I reset my password?,5.5
+6110,1630,2024-12-01,"Works fine, no issues so far.",6.0
+6111,1733,2024-10-05,Great tool but a bit expensive.,3.8
+6112,1231,2024-09-26,How do I reset my password?,5.5
+6113,1565,2024-10-20,"Works fine, no issues so far.",6.0
+6114,1807,2024-12-12,"The platform is too slow, I am losing money.",7.2
+6115,1321,2024-03-28,How do I reset my password?,5.5
+6116,1913,2024-12-26,"Works fine, no issues so far.",6.0
+6117,1233,2024-10-16,How do I reset my password?,5.5
+6118,1670,2024-05-15,How do I reset my password?,5.5
+6119,1437,2024-10-19,Great tool but a bit expensive.,3.8
+6120,1781,2024-08-25,Great tool but a bit expensive.,3.8
+6121,1533,2024-09-13,"Works fine, no issues so far.",6.0
+6122,1403,2024-05-19,"Works fine, no issues so far.",6.0
+6123,1053,2024-09-24,Absolutely love the new dashboard update!,2.4
+6124,1787,2024-12-30,How do I reset my password?,5.5
+6125,1313,2024-10-17,"Horrible customer service, canceling my account.",7.9
+6126,1281,2024-12-04,How do I reset my password?,5.5
+6127,1726,2024-05-19,How do I reset my password?,5.5
+6128,1031,2024-06-15,"Works fine, no issues so far.",6.0
+6129,1337,2024-12-04,How do I reset my password?,5.5
+6130,1183,2024-11-04,Billing is incorrect for the third month in a row!,5.5
+6131,1023,2024-10-14,How do I reset my password?,5.5
+6132,1544,2024-02-19,Billing is incorrect for the third month in a row!,5.5
+6133,1446,2024-06-30,Great tool but a bit expensive.,3.8
+6134,1074,2024-01-27,"Horrible customer service, canceling my account.",7.9
+6135,1010,2024-01-10,"Works fine, no issues so far.",6.0
+6136,1484,2024-04-14,How do I reset my password?,5.5
+6137,1456,2024-07-21,Billing is incorrect for the third month in a row!,5.5
+6138,1566,2024-07-20,Billing is incorrect for the third month in a row!,5.5
+6139,1564,2024-12-26,Great tool but a bit expensive.,3.8
+6140,1660,2024-07-28,Billing is incorrect for the third month in a row!,5.5
+6141,1160,2024-04-25,"The platform is too slow, I am losing money.",7.2
+6142,1882,2024-09-07,Absolutely love the new dashboard update!,2.4
+6143,1014,2024-07-14,"Horrible customer service, canceling my account.",7.9
+6144,1178,2024-05-29,Great tool but a bit expensive.,3.8
+6145,1412,2024-04-12,Great tool but a bit expensive.,3.8
+6146,1878,2024-07-16,How do I reset my password?,5.5
+6147,1053,2024-02-25,"The platform is too slow, I am losing money.",7.2
+6148,1408,2024-03-29,How do I reset my password?,5.5
+6149,1847,2024-11-08,How do I reset my password?,5.5
+6150,1022,2024-02-25,"Works fine, no issues so far.",6.0
+6151,1030,2024-06-02,"Works fine, no issues so far.",6.0
+6152,1703,2024-06-04,"Works fine, no issues so far.",6.0
+6153,1260,2024-12-04,"The platform is too slow, I am losing money.",7.2
+6154,1205,2024-09-15,How do I reset my password?,5.5
+6155,1059,2024-11-11,Absolutely love the new dashboard update!,2.4
+6156,1471,2024-06-18,"Horrible customer service, canceling my account.",7.9
+6157,1776,2024-10-12,"Works fine, no issues so far.",6.0
+6158,1466,2024-09-18,"Works fine, no issues so far.",6.0
+6159,1012,2024-04-25,Great tool but a bit expensive.,3.8
+6160,1631,2024-01-16,How do I reset my password?,5.5
+6161,1927,2024-03-23,How do I reset my password?,5.5
+6162,1974,2024-08-03,"The platform is too slow, I am losing money.",7.2
+6163,1290,2024-10-18,"The platform is too slow, I am losing money.",7.2
+6164,1850,2024-06-09,"Works fine, no issues so far.",6.0
+6165,1760,2024-11-20,How do I reset my password?,5.5
+6166,1354,2024-11-17,Absolutely love the new dashboard update!,2.4
+6167,1639,2024-02-24,"Horrible customer service, canceling my account.",7.9
+6168,1075,2024-05-08,How do I reset my password?,5.5
+6169,1873,2024-04-04,Great tool but a bit expensive.,3.8
+6170,1716,2024-02-02,How do I reset my password?,5.5
+6171,1561,2024-08-21,Billing is incorrect for the third month in a row!,5.5
+6172,1591,2024-02-16,"The platform is too slow, I am losing money.",7.2
+6173,1441,2024-05-26,Great tool but a bit expensive.,3.8
+6174,1991,2024-09-30,"Horrible customer service, canceling my account.",7.9
+6175,1241,2024-10-04,"Works fine, no issues so far.",6.0
+6176,1861,2024-03-16,Great tool but a bit expensive.,3.8
+6177,1154,2024-02-11,How do I reset my password?,5.5
+6178,1786,2024-10-31,"Works fine, no issues so far.",6.0
+6179,1096,2024-11-21,How do I reset my password?,5.5
+6180,1726,2024-10-14,"Works fine, no issues so far.",6.0
+6181,1294,2024-12-10,"Horrible customer service, canceling my account.",7.9
+6182,1209,2024-02-17,"The platform is too slow, I am losing money.",7.2
+6183,1343,2024-02-06,"Horrible customer service, canceling my account.",7.9
+6184,1088,2024-02-20,Billing is incorrect for the third month in a row!,5.5
+6185,1818,2024-01-23,Absolutely love the new dashboard update!,2.4
+6186,1776,2024-02-23,"The platform is too slow, I am losing money.",7.2
+6187,1937,2024-10-04,"Horrible customer service, canceling my account.",7.9
+6188,1390,2024-12-29,Billing is incorrect for the third month in a row!,5.5
+6189,1325,2024-10-28,Absolutely love the new dashboard update!,2.4
+6190,1940,2024-12-30,Billing is incorrect for the third month in a row!,5.5
+6191,1889,2024-02-01,How do I reset my password?,5.5
+6192,1832,2024-12-12,How do I reset my password?,5.5
+6193,1157,2024-11-18,"Works fine, no issues so far.",6.0
+6194,1668,2024-09-06,"The platform is too slow, I am losing money.",7.2
+6195,1651,2024-11-17,How do I reset my password?,5.5
+6196,1633,2024-01-07,Great tool but a bit expensive.,3.8
+6197,1577,2024-11-08,Billing is incorrect for the third month in a row!,5.5
+6198,1619,2024-02-24,"The platform is too slow, I am losing money.",7.2
+6199,1659,2024-07-06,Great tool but a bit expensive.,3.8
+6200,1137,2024-05-24,How do I reset my password?,5.5
+6201,1923,2024-06-01,"Works fine, no issues so far.",6.0
+6202,1674,2024-10-19,"Horrible customer service, canceling my account.",7.9
+6203,1428,2024-09-15,"Works fine, no issues so far.",6.0
+6204,1452,2024-05-30,Great tool but a bit expensive.,3.8
+6205,1612,2024-02-26,Absolutely love the new dashboard update!,2.4
+6206,1850,2024-03-27,How do I reset my password?,5.5
+6207,1911,2024-12-08,Great tool but a bit expensive.,3.8
+6208,1819,2024-10-05,Absolutely love the new dashboard update!,2.4
+6209,1141,2024-08-16,Absolutely love the new dashboard update!,2.4
+6210,1083,2024-01-12,Billing is incorrect for the third month in a row!,5.5
+6211,1177,2024-10-05,"The platform is too slow, I am losing money.",7.2
+6212,1198,2024-12-12,Billing is incorrect for the third month in a row!,5.5
+6213,1624,2024-06-16,How do I reset my password?,5.5
+6214,1568,2024-11-20,Absolutely love the new dashboard update!,2.4
+6215,1972,2024-09-21,Great tool but a bit expensive.,3.8
+6216,1691,2024-07-26,"Horrible customer service, canceling my account.",7.9
+6217,1421,2024-04-03,Absolutely love the new dashboard update!,2.4
+6218,1401,2024-06-09,Great tool but a bit expensive.,3.8
+6219,1698,2024-10-27,"Horrible customer service, canceling my account.",7.9
+6220,1471,2024-11-17,Billing is incorrect for the third month in a row!,5.5
+6221,1218,2024-12-31,Billing is incorrect for the third month in a row!,5.5
+6222,1925,2024-06-12,"The platform is too slow, I am losing money.",7.2
+6223,1929,2024-04-08,Great tool but a bit expensive.,3.8
+6224,1828,2024-12-30,Absolutely love the new dashboard update!,2.4
+6225,1987,2024-10-29,"Works fine, no issues so far.",6.0
+6226,1729,2024-05-27,Billing is incorrect for the third month in a row!,5.5
+6227,1632,2024-04-26,Billing is incorrect for the third month in a row!,5.5
+6228,1951,2024-06-02,"The platform is too slow, I am losing money.",7.2
+6229,1906,2024-07-19,"Horrible customer service, canceling my account.",7.9
+6230,1175,2024-10-03,"The platform is too slow, I am losing money.",7.2
+6231,1023,2024-05-22,Absolutely love the new dashboard update!,2.4
+6232,1725,2024-08-23,Great tool but a bit expensive.,3.8
+6233,1917,2024-05-03,How do I reset my password?,5.5
+6234,1235,2024-05-24,How do I reset my password?,5.5
+6235,1013,2024-12-18,Great tool but a bit expensive.,3.8
+6236,1101,2024-03-15,"Horrible customer service, canceling my account.",7.9
+6237,1929,2024-12-30,Billing is incorrect for the third month in a row!,5.5
+6238,1536,2024-05-13,"Horrible customer service, canceling my account.",7.9
+6239,1876,2024-07-26,Billing is incorrect for the third month in a row!,5.5
+6240,1523,2024-04-23,Billing is incorrect for the third month in a row!,5.5
+6241,1785,2024-10-15,How do I reset my password?,5.5
+6242,1452,2024-03-06,"Horrible customer service, canceling my account.",7.9
+6243,1431,2024-09-06,"The platform is too slow, I am losing money.",7.2
+6244,1793,2024-07-21,Billing is incorrect for the third month in a row!,5.5
+6245,1606,2024-09-22,"Works fine, no issues so far.",6.0
+6246,1713,2024-01-12,"Works fine, no issues so far.",6.0
+6247,1533,2024-01-28,"The platform is too slow, I am losing money.",7.2
+6248,1852,2024-10-19,"Works fine, no issues so far.",6.0
+6249,1979,2024-09-03,Absolutely love the new dashboard update!,2.4
+6250,1723,2024-04-27,Billing is incorrect for the third month in a row!,5.5
+6251,1652,2024-05-10,"The platform is too slow, I am losing money.",7.2
+6252,1293,2024-01-29,"Horrible customer service, canceling my account.",7.9
+6253,1810,2024-05-21,Billing is incorrect for the third month in a row!,5.5
+6254,1913,2024-07-12,"The platform is too slow, I am losing money.",7.2
+6255,1101,2024-07-08,How do I reset my password?,5.5
+6256,1502,2024-01-23,"Horrible customer service, canceling my account.",7.9
+6257,1304,2024-11-22,How do I reset my password?,5.5
+6258,1871,2024-02-27,Billing is incorrect for the third month in a row!,5.5
+6259,1540,2024-04-28,"Horrible customer service, canceling my account.",7.9
+6260,1553,2024-11-28,"Works fine, no issues so far.",6.0
+6261,1355,2024-07-05,"The platform is too slow, I am losing money.",7.2
+6262,1303,2024-09-23,Billing is incorrect for the third month in a row!,5.5
+6263,1496,2024-04-29,Absolutely love the new dashboard update!,2.4
+6264,1658,2024-10-29,"Horrible customer service, canceling my account.",7.9
+6265,1768,2024-08-08,"Horrible customer service, canceling my account.",7.9
+6266,1974,2024-12-08,Great tool but a bit expensive.,3.8
+6267,1227,2024-10-31,Billing is incorrect for the third month in a row!,5.5
+6268,1236,2024-10-11,Billing is incorrect for the third month in a row!,5.5
+6269,1873,2024-01-24,How do I reset my password?,5.5
+6270,1892,2024-05-10,Great tool but a bit expensive.,3.8
+6271,1455,2024-02-20,"Works fine, no issues so far.",6.0
+6272,1013,2024-05-22,How do I reset my password?,5.5
+6273,1210,2024-02-11,Great tool but a bit expensive.,3.8
+6274,1741,2024-10-27,How do I reset my password?,5.5
+6275,1397,2024-10-21,"Works fine, no issues so far.",6.0
+6276,1100,2024-03-17,Great tool but a bit expensive.,3.8
+6277,1031,2024-04-11,Great tool but a bit expensive.,3.8
+6278,1898,2024-04-14,Absolutely love the new dashboard update!,2.4
+6279,1528,2024-10-18,How do I reset my password?,5.5
+6280,1649,2024-03-04,How do I reset my password?,5.5
+6281,1329,2024-11-24,"Horrible customer service, canceling my account.",7.9
+6282,1166,2024-08-23,"Works fine, no issues so far.",6.0
+6283,1459,2024-10-05,"The platform is too slow, I am losing money.",7.2
+6284,1822,2024-11-15,Absolutely love the new dashboard update!,2.4
+6285,1952,2024-07-22,Great tool but a bit expensive.,3.8
+6286,1982,2024-08-06,Great tool but a bit expensive.,3.8
+6287,1993,2024-10-21,Great tool but a bit expensive.,3.8
+6288,1100,2024-01-07,Absolutely love the new dashboard update!,2.4
+6289,1621,2024-01-01,Great tool but a bit expensive.,3.8
+6290,1855,2024-10-18,Great tool but a bit expensive.,3.8
+6291,1173,2024-01-11,"Works fine, no issues so far.",6.0
+6292,1749,2024-07-19,Billing is incorrect for the third month in a row!,5.5
+6293,1162,2024-03-25,Billing is incorrect for the third month in a row!,5.5
+6294,1905,2024-09-16,"Horrible customer service, canceling my account.",7.9
+6295,1728,2024-03-19,"Horrible customer service, canceling my account.",7.9
+6296,1776,2024-01-29,Great tool but a bit expensive.,3.8
+6297,1263,2024-02-08,"Works fine, no issues so far.",6.0
+6298,1804,2024-04-27,Great tool but a bit expensive.,3.8
+6299,1274,2024-11-05,"Horrible customer service, canceling my account.",7.9
+6300,1003,2024-01-19,Absolutely love the new dashboard update!,2.4
+6301,1028,2024-04-29,Absolutely love the new dashboard update!,2.4
+6302,1326,2024-11-21,"The platform is too slow, I am losing money.",7.2
+6303,1940,2024-11-15,Billing is incorrect for the third month in a row!,5.5
+6304,1149,2024-10-23,"Works fine, no issues so far.",6.0
+6305,1540,2024-09-22,How do I reset my password?,5.5
+6306,1488,2024-12-03,Billing is incorrect for the third month in a row!,5.5
+6307,1822,2024-08-31,How do I reset my password?,5.5
+6308,1438,2024-01-31,"The platform is too slow, I am losing money.",7.2
+6309,1065,2024-09-21,"The platform is too slow, I am losing money.",7.2
+6310,1356,2024-11-03,Great tool but a bit expensive.,3.8
+6311,1533,2024-02-05,"Horrible customer service, canceling my account.",7.9
+6312,1252,2024-07-09,"The platform is too slow, I am losing money.",7.2
+6313,1235,2024-09-13,"The platform is too slow, I am losing money.",7.2
+6314,1227,2024-07-27,How do I reset my password?,5.5
+6315,1525,2024-10-06,"Horrible customer service, canceling my account.",7.9
+6316,1313,2024-12-21,"The platform is too slow, I am losing money.",7.2
+6317,1049,2024-11-10,Billing is incorrect for the third month in a row!,5.5
+6318,1118,2024-12-20,"The platform is too slow, I am losing money.",7.2
+6319,1054,2024-07-12,"Horrible customer service, canceling my account.",7.9
+6320,1650,2024-08-20,Great tool but a bit expensive.,3.8
+6321,1565,2024-08-22,"Works fine, no issues so far.",6.0
+6322,1044,2024-03-09,"Horrible customer service, canceling my account.",7.9
+6323,1815,2024-05-09,How do I reset my password?,5.5
+6324,1053,2024-08-11,"Works fine, no issues so far.",6.0
+6325,1586,2024-04-21,Billing is incorrect for the third month in a row!,5.5
+6326,1558,2024-06-28,Absolutely love the new dashboard update!,2.4
+6327,1525,2024-07-01,"Horrible customer service, canceling my account.",7.9
+6328,1677,2024-05-06,Great tool but a bit expensive.,3.8
+6329,1102,2024-01-06,How do I reset my password?,5.5
+6330,1792,2024-04-08,Billing is incorrect for the third month in a row!,5.5
+6331,1770,2024-05-28,"Works fine, no issues so far.",6.0
+6332,1982,2024-05-26,Billing is incorrect for the third month in a row!,5.5
+6333,1849,2024-01-23,"Horrible customer service, canceling my account.",7.9
+6334,1868,2024-10-24,"The platform is too slow, I am losing money.",7.2
+6335,1398,2024-12-21,Great tool but a bit expensive.,3.8
+6336,1138,2024-09-10,"Horrible customer service, canceling my account.",7.9
+6337,1675,2024-05-26,Absolutely love the new dashboard update!,2.4
+6338,1921,2024-07-12,"Horrible customer service, canceling my account.",7.9
+6339,1387,2024-09-10,"Works fine, no issues so far.",6.0
+6340,1111,2024-06-14,"Works fine, no issues so far.",6.0
+6341,1614,2024-05-09,"Horrible customer service, canceling my account.",7.9
+6342,1017,2024-09-26,"Works fine, no issues so far.",6.0
+6343,1780,2024-01-25,"The platform is too slow, I am losing money.",7.2
+6344,1182,2024-12-14,Billing is incorrect for the third month in a row!,5.5
+6345,1884,2024-07-18,"Horrible customer service, canceling my account.",7.9
+6346,1536,2024-11-16,Great tool but a bit expensive.,3.8
+6347,1541,2024-06-28,"The platform is too slow, I am losing money.",7.2
+6348,1171,2024-10-02,Billing is incorrect for the third month in a row!,5.5
+6349,1409,2024-01-16,Great tool but a bit expensive.,3.8
+6350,1740,2024-12-01,Great tool but a bit expensive.,3.8
+6351,1378,2024-09-23,Great tool but a bit expensive.,3.8
+6352,1188,2024-04-11,Billing is incorrect for the third month in a row!,5.5
+6353,1858,2024-06-09,"The platform is too slow, I am losing money.",7.2
+6354,1230,2024-07-08,Great tool but a bit expensive.,3.8
+6355,1833,2024-07-16,Great tool but a bit expensive.,3.8
+6356,1852,2024-11-27,How do I reset my password?,5.5
+6357,1119,2024-11-14,"Horrible customer service, canceling my account.",7.9
+6358,1156,2024-02-15,Billing is incorrect for the third month in a row!,5.5
+6359,1784,2024-03-23,Billing is incorrect for the third month in a row!,5.5
+6360,1687,2024-08-09,"Works fine, no issues so far.",6.0
+6361,1465,2024-07-19,Billing is incorrect for the third month in a row!,5.5
+6362,1104,2024-12-28,"The platform is too slow, I am losing money.",7.2
+6363,1604,2024-01-07,Billing is incorrect for the third month in a row!,5.5
+6364,1698,2024-05-14,How do I reset my password?,5.5
+6365,1972,2024-08-16,"Horrible customer service, canceling my account.",7.9
+6366,1795,2024-02-11,"Horrible customer service, canceling my account.",7.9
+6367,1502,2024-01-17,Billing is incorrect for the third month in a row!,5.5
+6368,1693,2024-01-02,Great tool but a bit expensive.,3.8
+6369,1682,2024-01-10,Absolutely love the new dashboard update!,2.4
+6370,1699,2024-04-21,Absolutely love the new dashboard update!,2.4
+6371,1175,2024-05-02,Great tool but a bit expensive.,3.8
+6372,1734,2024-03-12,Great tool but a bit expensive.,3.8
+6373,1745,2024-07-11,Great tool but a bit expensive.,3.8
+6374,1674,2024-06-29,"The platform is too slow, I am losing money.",7.2
+6375,1421,2024-07-13,Absolutely love the new dashboard update!,2.4
+6376,1134,2024-03-17,Great tool but a bit expensive.,3.8
+6377,1391,2024-07-31,"The platform is too slow, I am losing money.",7.2
+6378,1992,2024-03-29,"Works fine, no issues so far.",6.0
+6379,1736,2024-06-29,"The platform is too slow, I am losing money.",7.2
+6380,1501,2024-10-02,Absolutely love the new dashboard update!,2.4
+6381,1665,2024-06-20,Billing is incorrect for the third month in a row!,5.5
+6382,1033,2024-03-10,"Works fine, no issues so far.",6.0
+6383,1055,2024-08-21,Absolutely love the new dashboard update!,2.4
+6384,1954,2024-03-14,"The platform is too slow, I am losing money.",7.2
+6385,1519,2024-09-19,How do I reset my password?,5.5
+6386,1756,2024-03-31,"Horrible customer service, canceling my account.",7.9
+6387,1825,2024-09-23,Absolutely love the new dashboard update!,2.4
+6388,1638,2024-04-11,Great tool but a bit expensive.,3.8
+6389,1012,2024-08-10,"The platform is too slow, I am losing money.",7.2
+6390,1528,2024-05-01,Great tool but a bit expensive.,3.8
+6391,1720,2024-10-13,Great tool but a bit expensive.,3.8
+6392,1555,2024-04-23,Great tool but a bit expensive.,3.8
+6393,1373,2024-08-27,Great tool but a bit expensive.,3.8
+6394,1484,2024-07-29,Great tool but a bit expensive.,3.8
+6395,1973,2024-03-01,"Works fine, no issues so far.",6.0
+6396,1647,2024-04-23,Absolutely love the new dashboard update!,2.4
+6397,1228,2024-06-10,Absolutely love the new dashboard update!,2.4
+6398,1623,2024-03-08,"Horrible customer service, canceling my account.",7.9
+6399,1307,2024-06-11,"The platform is too slow, I am losing money.",7.2
+6400,1457,2024-10-15,How do I reset my password?,5.5
+6401,1160,2024-09-06,"Works fine, no issues so far.",6.0
+6402,1331,2024-06-02,"The platform is too slow, I am losing money.",7.2
+6403,1776,2024-06-04,"Works fine, no issues so far.",6.0
+6404,1225,2024-03-20,Absolutely love the new dashboard update!,2.4
+6405,1983,2024-05-04,Great tool but a bit expensive.,3.8
+6406,1729,2024-11-24,"Horrible customer service, canceling my account.",7.9
+6407,1504,2024-12-16,"Horrible customer service, canceling my account.",7.9
+6408,1456,2024-01-18,Billing is incorrect for the third month in a row!,5.5
+6409,1045,2024-08-16,How do I reset my password?,5.5
+6410,1214,2024-10-09,"Horrible customer service, canceling my account.",7.9
+6411,1059,2024-02-01,Great tool but a bit expensive.,3.8
+6412,1644,2024-08-31,Absolutely love the new dashboard update!,2.4
+6413,1616,2024-07-05,How do I reset my password?,5.5
+6414,1195,2024-08-16,"The platform is too slow, I am losing money.",7.2
+6415,1925,2024-12-12,Great tool but a bit expensive.,3.8
+6416,1489,2024-03-19,Great tool but a bit expensive.,3.8
+6417,1157,2024-12-03,"Horrible customer service, canceling my account.",7.9
+6418,1610,2024-05-08,How do I reset my password?,5.5
+6419,1226,2024-10-08,Absolutely love the new dashboard update!,2.4
+6420,1412,2024-09-11,Billing is incorrect for the third month in a row!,5.5
+6421,1205,2024-06-21,"Works fine, no issues so far.",6.0
+6422,1079,2024-07-09,"Works fine, no issues so far.",6.0
+6423,1124,2024-11-14,Absolutely love the new dashboard update!,2.4
+6424,1471,2024-11-09,Absolutely love the new dashboard update!,2.4
+6425,1940,2024-12-24,"Works fine, no issues so far.",6.0
+6426,1218,2024-11-14,Billing is incorrect for the third month in a row!,5.5
+6427,1516,2024-08-30,How do I reset my password?,5.5
+6428,1602,2024-09-30,"Works fine, no issues so far.",6.0
+6429,1104,2024-11-13,Absolutely love the new dashboard update!,2.4
+6430,1393,2024-11-14,"Horrible customer service, canceling my account.",7.9
+6431,1631,2024-10-30,"The platform is too slow, I am losing money.",7.2
+6432,1645,2024-04-18,Billing is incorrect for the third month in a row!,5.5
+6433,1824,2024-08-22,Great tool but a bit expensive.,3.8
+6434,1608,2024-05-30,Billing is incorrect for the third month in a row!,5.5
+6435,1980,2024-12-23,"Horrible customer service, canceling my account.",7.9
+6436,1434,2024-07-26,"Horrible customer service, canceling my account.",7.9
+6437,1331,2024-04-18,Great tool but a bit expensive.,3.8
+6438,1143,2024-02-26,Absolutely love the new dashboard update!,2.4
+6439,1800,2024-05-22,"Works fine, no issues so far.",6.0
+6440,1540,2024-03-15,How do I reset my password?,5.5
+6441,1278,2024-02-04,Billing is incorrect for the third month in a row!,5.5
+6442,1233,2024-03-24,Great tool but a bit expensive.,3.8
+6443,1529,2024-09-20,Billing is incorrect for the third month in a row!,5.5
+6444,1571,2024-02-22,"Horrible customer service, canceling my account.",7.9
+6445,1090,2024-11-13,"Works fine, no issues so far.",6.0
+6446,1492,2024-11-21,Billing is incorrect for the third month in a row!,5.5
+6447,1199,2024-06-09,How do I reset my password?,5.5
+6448,1362,2024-07-03,"Horrible customer service, canceling my account.",7.9
+6449,1441,2024-05-08,How do I reset my password?,5.5
+6450,1026,2024-02-29,"Works fine, no issues so far.",6.0
+6451,1025,2024-10-13,Billing is incorrect for the third month in a row!,5.5
+6452,1394,2024-12-28,"The platform is too slow, I am losing money.",7.2
+6453,1507,2024-05-09,Billing is incorrect for the third month in a row!,5.5
+6454,1301,2024-04-19,"Works fine, no issues so far.",6.0
+6455,1339,2024-05-31,Billing is incorrect for the third month in a row!,5.5
+6456,1267,2024-07-03,Great tool but a bit expensive.,3.8
+6457,1461,2024-11-08,Billing is incorrect for the third month in a row!,5.5
+6458,1693,2024-02-02,Absolutely love the new dashboard update!,2.4
+6459,1456,2024-09-08,Billing is incorrect for the third month in a row!,5.5
+6460,1360,2024-05-22,Billing is incorrect for the third month in a row!,5.5
+6461,1068,2024-01-18,How do I reset my password?,5.5
+6462,1863,2024-05-10,"The platform is too slow, I am losing money.",7.2
+6463,1412,2024-06-06,How do I reset my password?,5.5
+6464,1971,2024-01-18,How do I reset my password?,5.5
+6465,1491,2024-07-23,"Horrible customer service, canceling my account.",7.9
+6466,1833,2024-09-16,Absolutely love the new dashboard update!,2.4
+6467,1049,2024-03-07,How do I reset my password?,5.5
+6468,1687,2024-01-18,Great tool but a bit expensive.,3.8
+6469,1564,2024-08-25,"Works fine, no issues so far.",6.0
+6470,1102,2024-12-14,Great tool but a bit expensive.,3.8
+6471,1216,2024-10-15,"Works fine, no issues so far.",6.0
+6472,1438,2024-11-02,Billing is incorrect for the third month in a row!,5.5
+6473,1700,2024-12-18,"Horrible customer service, canceling my account.",7.9
+6474,1569,2024-07-15,Absolutely love the new dashboard update!,2.4
+6475,1559,2024-08-13,Great tool but a bit expensive.,3.8
+6476,1159,2024-12-24,Absolutely love the new dashboard update!,2.4
+6477,1489,2024-03-18,Great tool but a bit expensive.,3.8
+6478,1686,2024-10-07,Billing is incorrect for the third month in a row!,5.5
+6479,1242,2024-01-17,"Works fine, no issues so far.",6.0
+6480,1794,2024-03-05,"The platform is too slow, I am losing money.",7.2
+6481,1753,2024-03-10,"Horrible customer service, canceling my account.",7.9
+6482,1882,2024-03-19,Great tool but a bit expensive.,3.8
+6483,1005,2024-04-07,Great tool but a bit expensive.,3.8
+6484,1596,2024-12-18,Billing is incorrect for the third month in a row!,5.5
+6485,1820,2024-07-16,"Horrible customer service, canceling my account.",7.9
+6486,1361,2024-10-29,"Works fine, no issues so far.",6.0
+6487,1459,2024-06-01,"Works fine, no issues so far.",6.0
+6488,1248,2024-08-10,Great tool but a bit expensive.,3.8
+6489,1566,2024-11-24,"The platform is too slow, I am losing money.",7.2
+6490,1673,2024-09-26,"The platform is too slow, I am losing money.",7.2
+6491,1946,2024-09-29,Absolutely love the new dashboard update!,2.4
+6492,1422,2024-07-02,"Horrible customer service, canceling my account.",7.9
+6493,1923,2024-08-08,"Horrible customer service, canceling my account.",7.9
+6494,1738,2024-01-06,"Works fine, no issues so far.",6.0
+6495,1015,2024-11-14,Absolutely love the new dashboard update!,2.4
+6496,1736,2024-07-14,Billing is incorrect for the third month in a row!,5.5
+6497,1573,2024-09-10,"Horrible customer service, canceling my account.",7.9
+6498,1122,2024-10-10,Absolutely love the new dashboard update!,2.4
+6499,1277,2024-03-03,Absolutely love the new dashboard update!,2.4
+6500,1558,2024-08-10,Great tool but a bit expensive.,3.8
