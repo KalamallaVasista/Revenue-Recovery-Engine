@@ -1,0 +1,29 @@
+[0m19:40:33.358658 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001654B3C2900>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001654DEAFED0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001654DEAFC50>]}
+
+
+============================== 19:40:33.370769 | ae49d15e-10c6-4543-86e0-9d171b59146a ==============================
+[0m19:40:33.370769 [info ] [MainThread]: Running with dbt=1.7.20
+[0m19:40:33.371721 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\vasik\\.dbt', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'warn_error': 'None', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'log_format': 'default', 'invocation_command': 'dbt init dbt_revenue_project', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m19:40:33.372712 [warn ] [MainThread]: [[33mWARNING[0m]: This version of dbt is deprecated and no longer receives regular patches, including for known bugs. Please upgrade to a newer supported version of dbt for new projects: https://docs.getdbt.com/docs/dbt-versions?utm_source=dbt-cli
+[0m19:40:33.373456 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'deprecated_version_invocation', 'label': 'ae49d15e-10c6-4543-86e0-9d171b59146a', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001654DD69CD0>]}
+[0m19:40:33.377735 [debug] [MainThread]: Starter project path: C:\Users\vasik\Revenue-Recovery-Engine\venv\Lib\site-packages\dbt\include\starter_project
+[0m19:40:33.455458 [info ] [MainThread]: 
+Your new dbt project "dbt_revenue_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m19:40:33.456648 [info ] [MainThread]: Setting up your profile.
+[0m19:41:20.555435 [debug] [MainThread]: Command `dbt init` succeeded at 19:41:20.554549 after 47.46 seconds
+[0m19:41:20.557008 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001654E097130>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001654E097460>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001654DF2C150>]}
+[0m19:41:20.558438 [debug] [MainThread]: Flushing usage events
